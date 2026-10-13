@@ -1,0 +1,3129 @@
+District,Year,Enrollment,ClassGroup,Gender,IsNewDistrict
+Gurdaspur,2022,27630.0,1-5,Boys,False
+Pathankot,2022,9456.0,1-5,Boys,True
+Amritsar,2022,43661.0,1-5,Boys,False
+Tarn Taran,2022,27392.0,1-5,Boys,True
+Kapurthala,2022,14892.0,1-5,Boys,False
+Jalandhar,2022,35103.0,1-5,Boys,False
+SBS Nagar,2022,12047.0,1-5,Boys,True
+Hoshiarpur,2022,29337.0,1-5,Boys,False
+Rupnagar,2022,13139.0,1-5,Boys,False
+SAS Nagar,2022,24769.0,1-5,Boys,True
+Ludhiana,2022,62486.0,1-5,Boys,False
+Ferozepur,2022,25005.0,1-5,Boys,False
+Fazilka,2022,30652.0,1-5,Boys,True
+Faridkot,2022,13824.0,1-5,Boys,False
+Sri Muktsar Sahib,2022,21431.0,1-5,Boys,True
+Moga,2022,21157.0,1-5,Boys,True
+Bathinda,2022,30144.0,1-5,Boys,False
+Mansa,2022,16940.0,1-5,Boys,True
+Sangrur,2022,22328.0,1-5,Boys,False
+Barnala,2022,10967.0,1-5,Boys,True
+Patiala,2022,36916.0,1-5,Boys,False
+Fatehgarh Sahib,2022,11472.0,1-5,Boys,True
+Malerkotla,2022,6403.0,1-5,Boys,True
+Gurdaspur,2021,32770.0,1-5,Boys,False
+Pathankot,2021,10692.0,1-5,Boys,True
+Amritsar,2021,51327.0,1-5,Boys,False
+Tarn Taran,2021,32026.0,1-5,Boys,True
+Kapurthala,2021,17851.0,1-5,Boys,False
+Jalandhar,2021,40705.0,1-5,Boys,False
+SBS Nagar,2021,14740.0,1-5,Boys,True
+Hoshiarpur,2021,36035.0,1-5,Boys,False
+Rupnagar,2021,15936.0,1-5,Boys,False
+SAS Nagar,2021,29532.0,1-5,Boys,True
+Ludhiana,2021,72144.0,1-5,Boys,False
+Ferozepur,2021,31135.0,1-5,Boys,False
+Fazilka,2021,35800.0,1-5,Boys,True
+Faridkot,2021,16669.0,1-5,Boys,False
+Sri Muktsar Sahib,2021,25582.0,1-5,Boys,True
+Moga,2021,26331.0,1-5,Boys,True
+Bathinda,2021,35480.0,1-5,Boys,False
+Mansa,2021,21186.0,1-5,Boys,True
+Sangrur,2021,35431.0,1-5,Boys,False
+Barnala,2021,13348.0,1-5,Boys,True
+Patiala,2021,43975.0,1-5,Boys,False
+Fatehgarh Sahib,2021,14839.0,1-5,Boys,True
+Malerkotla,2021,,1-5,Boys,True
+Gurdaspur,2020,23139.0,1-5,Boys,False
+Pathankot,2020,7290.0,1-5,Boys,True
+Amritsar,2020,38984.0,1-5,Boys,False
+Tarn Taran,2020,23338.0,1-5,Boys,True
+Kapurthala,2020,13102.0,1-5,Boys,False
+Jalandhar,2020,30409.0,1-5,Boys,False
+SBS Nagar,2020,9879.0,1-5,Boys,True
+Hoshiarpur,2020,24719.0,1-5,Boys,False
+Rupnagar,2020,10941.0,1-5,Boys,False
+SAS Nagar,2020,19072.0,1-5,Boys,True
+Ludhiana,2020,50007.0,1-5,Boys,False
+Ferozepur,2020,21462.0,1-5,Boys,False
+Fazilka,2020,25510.0,1-5,Boys,True
+Faridkot,2020,11711.0,1-5,Boys,False
+Sri Muktsar Sahib,2020,18229.0,1-5,Boys,True
+Moga,2020,18599.0,1-5,Boys,True
+Bathinda,2020,24095.0,1-5,Boys,False
+Mansa,2020,14882.0,1-5,Boys,True
+Sangrur,2020,24497.0,1-5,Boys,False
+Barnala,2020,9239.0,1-5,Boys,True
+Patiala,2020,30153.0,1-5,Boys,False
+Fatehgarh Sahib,2020,9578.0,1-5,Boys,True
+Malerkotla,2020,,1-5,Boys,True
+Gurdaspur,2019,28218.0,1-5,Boys,False
+Pathankot,2019,8947.0,1-5,Boys,True
+Amritsar,2019,46096.0,1-5,Boys,False
+Tarn Taran,2019,27659.0,1-5,Boys,True
+Kapurthala,2019,15776.0,1-5,Boys,False
+Jalandhar,2019,36026.0,1-5,Boys,False
+SBS Nagar,2019,11276.0,1-5,Boys,True
+Hoshiarpur,2019,31170.0,1-5,Boys,False
+Rupnagar,2019,14017.0,1-5,Boys,False
+SAS Nagar,2019,22379.0,1-5,Boys,True
+Ludhiana,2019,56385.0,1-5,Boys,False
+Ferozepur,2019,26524.0,1-5,Boys,False
+Fazilka,2019,30830.0,1-5,Boys,True
+Faridkot,2019,14545.0,1-5,Boys,False
+Sri Muktsar Sahib,2019,22395.0,1-5,Boys,True
+Moga,2019,23109.0,1-5,Boys,True
+Bathinda,2019,29550.0,1-5,Boys,False
+Mansa,2019,18197.0,1-5,Boys,True
+Sangrur,2019,29021.0,1-5,Boys,False
+Barnala,2019,11976.0,1-5,Boys,True
+Patiala,2019,37345.0,1-5,Boys,False
+Fatehgarh Sahib,2019,11816.0,1-5,Boys,True
+Malerkotla,2019,,1-5,Boys,True
+Gurdaspur,2018,25351.0,1-5,Boys,False
+Pathankot,2018,8028.0,1-5,Boys,True
+Amritsar,2018,39916.0,1-5,Boys,False
+Tarn Taran,2018,23875.0,1-5,Boys,True
+Kapurthala,2018,14257.0,1-5,Boys,False
+Jalandhar,2018,31684.0,1-5,Boys,False
+SBS Nagar,2018,10624.0,1-5,Boys,True
+Hoshiarpur,2018,27598.0,1-5,Boys,False
+Rupnagar,2018,11629.0,1-5,Boys,False
+SAS Nagar,2018,17602.0,1-5,Boys,True
+Ludhiana,2018,46638.0,1-5,Boys,False
+Ferozepur,2018,21546.0,1-5,Boys,False
+Fazilka,2018,26049.0,1-5,Boys,True
+Faridkot,2018,12223.0,1-5,Boys,False
+Sri Muktsar Sahib,2018,19501.0,1-5,Boys,True
+Moga,2018,18943.0,1-5,Boys,True
+Bathinda,2018,24197.0,1-5,Boys,False
+Mansa,2018,15436.0,1-5,Boys,True
+Sangrur,2018,25823.0,1-5,Boys,False
+Barnala,2018,9444.0,1-5,Boys,True
+Patiala,2018,31150.0,1-5,Boys,False
+Fatehgarh Sahib,2018,10084.0,1-5,Boys,True
+Malerkotla,2018,,1-5,Boys,True
+Gurdaspur,2017,25351.0,1-5,Boys,False
+Pathankot,2017,8028.0,1-5,Boys,True
+Amritsar,2017,39916.0,1-5,Boys,False
+Tarn Taran,2017,23875.0,1-5,Boys,True
+Kapurthala,2017,14257.0,1-5,Boys,False
+Jalandhar,2017,31684.0,1-5,Boys,False
+SBS Nagar,2017,10624.0,1-5,Boys,True
+Hoshiarpur,2017,27598.0,1-5,Boys,False
+Rupnagar,2017,11629.0,1-5,Boys,False
+SAS Nagar,2017,17602.0,1-5,Boys,True
+Ludhiana,2017,46638.0,1-5,Boys,False
+Ferozepur,2017,21546.0,1-5,Boys,False
+Fazilka,2017,26049.0,1-5,Boys,True
+Faridkot,2017,12223.0,1-5,Boys,False
+Sri Muktsar Sahib,2017,19501.0,1-5,Boys,True
+Moga,2017,18943.0,1-5,Boys,True
+Bathinda,2017,24197.0,1-5,Boys,False
+Mansa,2017,15436.0,1-5,Boys,True
+Sangrur,2017,25823.0,1-5,Boys,False
+Barnala,2017,9444.0,1-5,Boys,True
+Patiala,2017,31150.0,1-5,Boys,False
+Fatehgarh Sahib,2017,10084.0,1-5,Boys,True
+Malerkotla,2017,,1-5,Boys,True
+Gurdaspur,2016,26517.0,1-5,Boys,False
+Pathankot,2016,8427.0,1-5,Boys,True
+Amritsar,2016,41395.0,1-5,Boys,False
+Tarn Taran,2016,24966.0,1-5,Boys,True
+Kapurthala,2016,14310.0,1-5,Boys,False
+Jalandhar,2016,32808.0,1-5,Boys,False
+SBS Nagar,2016,11167.0,1-5,Boys,True
+Hoshiarpur,2016,28888.0,1-5,Boys,False
+Rupnagar,2016,12108.0,1-5,Boys,False
+SAS Nagar,2016,17415.0,1-5,Boys,True
+Ludhiana,2016,47114.0,1-5,Boys,False
+Ferozepur,2016,21856.0,1-5,Boys,False
+Fazilka,2016,26445.0,1-5,Boys,True
+Faridkot,2016,12800.0,1-5,Boys,False
+Sri Muktsar Sahib,2016,19977.0,1-5,Boys,True
+Moga,2016,19650.0,1-5,Boys,True
+Bathinda,2016,24926.0,1-5,Boys,False
+Mansa,2016,16547.0,1-5,Boys,True
+Sangrur,2016,26630.0,1-5,Boys,False
+Barnala,2016,9801.0,1-5,Boys,True
+Patiala,2016,32112.0,1-5,Boys,False
+Fatehgarh Sahib,2016,10679.0,1-5,Boys,True
+Malerkotla,2016,,1-5,Boys,True
+Gurdaspur,2015,28969.0,1-5,Boys,False
+Pathankot,2015,5350.0,1-5,Boys,True
+Amritsar,2015,45209.0,1-5,Boys,False
+Tarn Taran,2015,27278.0,1-5,Boys,True
+Kapurthala,2015,15857.0,1-5,Boys,False
+Jalandhar,2015,35193.0,1-5,Boys,False
+SBS Nagar,2015,12833.0,1-5,Boys,True
+Hoshiarpur,2015,32759.0,1-5,Boys,False
+Rupnagar,2015,13238.0,1-5,Boys,False
+SAS Nagar,2015,18211.0,1-5,Boys,True
+Ludhiana,2015,53271.0,1-5,Boys,False
+Ferozepur,2015,23810.0,1-5,Boys,False
+Fazilka,2015,26936.0,1-5,Boys,True
+Faridkot,2015,14448.0,1-5,Boys,False
+Sri Muktsar Sahib,2015,21285.0,1-5,Boys,True
+Moga,2015,22520.0,1-5,Boys,True
+Bathinda,2015,27034.0,1-5,Boys,False
+Mansa,2015,18677.0,1-5,Boys,True
+Sangrur,2015,30410.0,1-5,Boys,False
+Barnala,2015,11289.0,1-5,Boys,True
+Patiala,2015,34765.0,1-5,Boys,False
+Fatehgarh Sahib,2015,11602.0,1-5,Boys,True
+Malerkotla,2015,,1-5,Boys,True
+Gurdaspur,2014,34286.0,1-5,Boys,False
+Pathankot,2014,10896.0,1-5,Boys,True
+Amritsar,2014,55184.0,1-5,Boys,False
+Tarn Taran,2014,31446.0,1-5,Boys,True
+Kapurthala,2014,18390.0,1-5,Boys,False
+Jalandhar,2014,45642.0,1-5,Boys,False
+SBS Nagar,2014,13398.0,1-5,Boys,True
+Hoshiarpur,2014,37695.0,1-5,Boys,False
+Rupnagar,2014,15043.0,1-5,Boys,False
+SAS Nagar,2014,19861.0,1-5,Boys,True
+Ludhiana,2014,62887.0,1-5,Boys,False
+Ferozepur,2014,25461.0,1-5,Boys,False
+Fazilka,2014,31272.0,1-5,Boys,True
+Faridkot,2014,16505.0,1-5,Boys,False
+Sri Muktsar Sahib,2014,24647.0,1-5,Boys,True
+Moga,2014,25653.0,1-5,Boys,True
+Bathinda,2014,30789.0,1-5,Boys,False
+Mansa,2014,20389.0,1-5,Boys,True
+Sangrur,2014,35522.0,1-5,Boys,False
+Barnala,2014,13389.0,1-5,Boys,True
+Patiala,2014,40089.0,1-5,Boys,False
+Fatehgarh Sahib,2014,13473.0,1-5,Boys,True
+Malerkotla,2014,,1-5,Boys,True
+Gurdaspur,2013,81270.0,1-5,Boys,False
+Pathankot,2013,32085.0,1-5,Boys,True
+Amritsar,2013,127780.0,1-5,Boys,False
+Tarn Taran,2013,61684.0,1-5,Boys,True
+Kapurthala,2013,42075.0,1-5,Boys,False
+Jalandhar,2013,103159.0,1-5,Boys,False
+SBS Nagar,2013,28183.0,1-5,Boys,True
+Hoshiarpur,2013,78345.0,1-5,Boys,False
+Rupnagar,2013,30708.0,1-5,Boys,False
+SAS Nagar,2013,49798.0,1-5,Boys,True
+Ludhiana,2013,189343.0,1-5,Boys,False
+Ferozepur,2013,51594.0,1-5,Boys,False
+Fazilka,2013,56825.0,1-5,Boys,True
+Faridkot,2013,33115.0,1-5,Boys,False
+Sri Muktsar Sahib,2013,43250.0,1-5,Boys,True
+Moga,2013,49888.0,1-5,Boys,True
+Bathinda,2013,66306.0,1-5,Boys,False
+Mansa,2013,38802.0,1-5,Boys,True
+Sangrur,2013,80011.0,1-5,Boys,False
+Barnala,2013,30678.0,1-5,Boys,True
+Patiala,2013,98908.0,1-5,Boys,False
+Fatehgarh Sahib,2013,28239.0,1-5,Boys,True
+Malerkotla,2013,,1-5,Boys,True
+Gurdaspur,2012,34678.0,1-5,Boys,False
+Pathankot,2012,11484.0,1-5,Boys,True
+Amritsar,2012,47778.0,1-5,Boys,False
+Tarn Taran,2012,31540.0,1-5,Boys,True
+Kapurthala,2012,19882.0,1-5,Boys,False
+Jalandhar,2012,40323.0,1-5,Boys,False
+SBS Nagar,2012,14804.0,1-5,Boys,True
+Hoshiarpur,2012,38153.0,1-5,Boys,False
+Rupnagar,2012,16119.0,1-5,Boys,False
+SAS Nagar,2012,18537.0,1-5,Boys,True
+Ludhiana,2012,58279.0,1-5,Boys,False
+Ferozepur,2012,26220.0,1-5,Boys,False
+Fazilka,2012,30427.0,1-5,Boys,True
+Faridkot,2012,17654.0,1-5,Boys,False
+Sri Muktsar Sahib,2012,24778.0,1-5,Boys,True
+Moga,2012,29005.0,1-5,Boys,True
+Bathinda,2012,33089.0,1-5,Boys,False
+Mansa,2012,23288.0,1-5,Boys,True
+Sangrur,2012,38051.0,1-5,Boys,False
+Barnala,2012,15455.0,1-5,Boys,True
+Patiala,2012,41674.0,1-5,Boys,False
+Fatehgarh Sahib,2012,14400.0,1-5,Boys,True
+Malerkotla,2012,,1-5,Boys,True
+Gurdaspur,2011,82740.0,1-5,Boys,False
+Pathankot,2011,33331.0,1-5,Boys,True
+Amritsar,2011,126433.0,1-5,Boys,False
+Tarn Taran,2011,64796.0,1-5,Boys,True
+Kapurthala,2011,46383.0,1-5,Boys,False
+Jalandhar,2011,110391.0,1-5,Boys,False
+SBS Nagar,2011,30717.0,1-5,Boys,True
+Hoshiarpur,2011,81952.0,1-5,Boys,False
+Rupnagar,2011,33233.0,1-5,Boys,False
+SAS Nagar,2011,47272.0,1-5,Boys,True
+Ludhiana,2011,156446.0,1-5,Boys,False
+Ferozepur,2011,53809.0,1-5,Boys,False
+Fazilka,2011,59011.0,1-5,Boys,True
+Faridkot,2011,34200.0,1-5,Boys,False
+Sri Muktsar Sahib,2011,48256.0,1-5,Boys,True
+Moga,2011,54037.0,1-5,Boys,True
+Bathinda,2011,71332.0,1-5,Boys,False
+Mansa,2011,43436.0,1-5,Boys,True
+Sangrur,2011,8664.0,1-5,Boys,False
+Barnala,2011,34046.0,1-5,Boys,True
+Patiala,2011,104424.0,1-5,Boys,False
+Fatehgarh Sahib,2011,29671.0,1-5,Boys,True
+Malerkotla,2011,,1-5,Boys,True
+Gurdaspur,2010,97469.0,1-5,Boys,False
+Pathankot,2010,,1-5,Boys,True
+Amritsar,2010,91254.0,1-5,Boys,False
+Tarn Taran,2010,44296.0,1-5,Boys,True
+Kapurthala,2010,30053.0,1-5,Boys,False
+Jalandhar,2010,49696.0,1-5,Boys,False
+SBS Nagar,2010,21273.0,1-5,Boys,True
+Hoshiarpur,2010,58498.0,1-5,Boys,False
+Rupnagar,2010,25123.0,1-5,Boys,False
+SAS Nagar,2010,28732.0,1-5,Boys,True
+Ludhiana,2010,128220.0,1-5,Boys,False
+Ferozepur,2010,94955.0,1-5,Boys,False
+Fazilka,2010,,1-5,Boys,True
+Faridkot,2010,30501.0,1-5,Boys,False
+Sri Muktsar Sahib,2010,40086.0,1-5,Boys,True
+Moga,2010,47841.0,1-5,Boys,True
+Bathinda,2010,59492.0,1-5,Boys,False
+Mansa,2010,35438.0,1-5,Boys,True
+Sangrur,2010,61917.0,1-5,Boys,False
+Barnala,2010,22657.0,1-5,Boys,True
+Patiala,2010,74274.0,1-5,Boys,False
+Fatehgarh Sahib,2010,23377.0,1-5,Boys,True
+Malerkotla,2010,,1-5,Boys,True
+Gurdaspur,2009,91406.0,1-5,Boys,False
+Pathankot,2009,,1-5,Boys,True
+Amritsar,2009,88110.0,1-5,Boys,False
+Tarn Taran,2009,49105.0,1-5,Boys,True
+Kapurthala,2009,26497.0,1-5,Boys,False
+Jalandhar,2009,50704.0,1-5,Boys,False
+SBS Nagar,2009,19173.0,1-5,Boys,True
+Hoshiarpur,2009,58622.0,1-5,Boys,False
+Rupnagar,2009,25534.0,1-5,Boys,False
+SAS Nagar,2009,24334.0,1-5,Boys,True
+Ludhiana,2009,125712.0,1-5,Boys,False
+Ferozepur,2009,87482.0,1-5,Boys,False
+Fazilka,2009,,1-5,Boys,True
+Faridkot,2009,30577.0,1-5,Boys,False
+Sri Muktsar Sahib,2009,39154.0,1-5,Boys,True
+Moga,2009,47597.0,1-5,Boys,True
+Bathinda,2009,57269.0,1-5,Boys,False
+Mansa,2009,32807.0,1-5,Boys,True
+Sangrur,2009,56709.0,1-5,Boys,False
+Barnala,2009,16771.0,1-5,Boys,True
+Patiala,2009,62692.0,1-5,Boys,False
+Fatehgarh Sahib,2009,19679.0,1-5,Boys,True
+Malerkotla,2009,,1-5,Boys,True
+Gurdaspur,2008,,1-5,Boys,False
+Pathankot,2008,,1-5,Boys,True
+Amritsar,2008,,1-5,Boys,False
+Tarn Taran,2008,,1-5,Boys,True
+Kapurthala,2008,,1-5,Boys,False
+Jalandhar,2008,,1-5,Boys,False
+SBS Nagar,2008,,1-5,Boys,True
+Hoshiarpur,2008,,1-5,Boys,False
+Rupnagar,2008,,1-5,Boys,False
+SAS Nagar,2008,,1-5,Boys,True
+Ludhiana,2008,,1-5,Boys,False
+Ferozepur,2008,,1-5,Boys,False
+Fazilka,2008,,1-5,Boys,True
+Faridkot,2008,,1-5,Boys,False
+Sri Muktsar Sahib,2008,,1-5,Boys,True
+Moga,2008,,1-5,Boys,True
+Bathinda,2008,,1-5,Boys,False
+Mansa,2008,,1-5,Boys,True
+Sangrur,2008,,1-5,Boys,False
+Barnala,2008,,1-5,Boys,True
+Patiala,2008,,1-5,Boys,False
+Fatehgarh Sahib,2008,,1-5,Boys,True
+Malerkotla,2008,,1-5,Boys,True
+Gurdaspur,2007,76794.0,1-5,Boys,False
+Pathankot,2007,,1-5,Boys,True
+Amritsar,2007,66879.0,1-5,Boys,False
+Tarn Taran,2007,47091.0,1-5,Boys,True
+Kapurthala,2007,29349.0,1-5,Boys,False
+Jalandhar,2007,71319.0,1-5,Boys,False
+SBS Nagar,2007,18257.0,1-5,Boys,True
+Hoshiarpur,2007,44560.0,1-5,Boys,False
+Rupnagar,2007,20284.0,1-5,Boys,False
+SAS Nagar,2007,18885.0,1-5,Boys,True
+Ludhiana,2007,105473.0,1-5,Boys,False
+Ferozepur,2007,90435.0,1-5,Boys,False
+Fazilka,2007,,1-5,Boys,True
+Faridkot,2007,27475.0,1-5,Boys,False
+Sri Muktsar Sahib,2007,44663.0,1-5,Boys,True
+Moga,2007,45024.0,1-5,Boys,True
+Bathinda,2007,60703.0,1-5,Boys,False
+Mansa,2007,25227.0,1-5,Boys,True
+Sangrur,2007,58830.0,1-5,Boys,False
+Barnala,2007,17218.0,1-5,Boys,True
+Patiala,2007,61336.0,1-5,Boys,False
+Fatehgarh Sahib,2007,17835.0,1-5,Boys,True
+Malerkotla,2007,,1-5,Boys,True
+Gurdaspur,2006,113319.0,1-5,Boys,False
+Pathankot,2006,,1-5,Boys,True
+Amritsar,2006,79694.0,1-5,Boys,False
+Tarn Taran,2006,47091.0,1-5,Boys,True
+Kapurthala,2006,30113.0,1-5,Boys,False
+Jalandhar,2006,71319.0,1-5,Boys,False
+SBS Nagar,2006,20413.0,1-5,Boys,True
+Hoshiarpur,2006,46899.0,1-5,Boys,False
+Rupnagar,2006,26880.0,1-5,Boys,False
+SAS Nagar,2006,17855.0,1-5,Boys,True
+Ludhiana,2006,99918.0,1-5,Boys,False
+Ferozepur,2006,88910.0,1-5,Boys,False
+Fazilka,2006,,1-5,Boys,True
+Faridkot,2006,29870.0,1-5,Boys,False
+Sri Muktsar Sahib,2006,42813.0,1-5,Boys,True
+Moga,2006,46819.0,1-5,Boys,True
+Bathinda,2006,70339.0,1-5,Boys,False
+Mansa,2006,34380.0,1-5,Boys,True
+Sangrur,2006,73413.0,1-5,Boys,False
+Barnala,2006,,1-5,Boys,True
+Patiala,2006,61178.0,1-5,Boys,False
+Fatehgarh Sahib,2006,17835.0,1-5,Boys,True
+Malerkotla,2006,,1-5,Boys,True
+Gurdaspur,2005,112609.0,1-5,Boys,False
+Pathankot,2005,,1-5,Boys,True
+Amritsar,2005,126785.0,1-5,Boys,False
+Tarn Taran,2005,,1-5,Boys,True
+Kapurthala,2005,29052.0,1-5,Boys,False
+Jalandhar,2005,70354.0,1-5,Boys,False
+SBS Nagar,2005,19473.0,1-5,Boys,True
+Hoshiarpur,2005,46729.0,1-5,Boys,False
+Rupnagar,2005,41923.0,1-5,Boys,False
+SAS Nagar,2005,,1-5,Boys,True
+Ludhiana,2005,98046.0,1-5,Boys,False
+Ferozepur,2005,87016.0,1-5,Boys,False
+Fazilka,2005,,1-5,Boys,True
+Faridkot,2005,26159.0,1-5,Boys,False
+Sri Muktsar Sahib,2005,40993.0,1-5,Boys,True
+Moga,2005,41715.0,1-5,Boys,True
+Bathinda,2005,68272.0,1-5,Boys,False
+Mansa,2005,33043.0,1-5,Boys,True
+Sangrur,2005,72460.0,1-5,Boys,False
+Barnala,2005,,1-5,Boys,True
+Patiala,2005,67940.0,1-5,Boys,False
+Fatehgarh Sahib,2005,16921.0,1-5,Boys,True
+Malerkotla,2005,,1-5,Boys,True
+Gurdaspur,2004,125968.0,1-5,Boys,False
+Pathankot,2004,,1-5,Boys,True
+Amritsar,2004,126600.0,1-5,Boys,False
+Tarn Taran,2004,,1-5,Boys,True
+Kapurthala,2004,28958.0,1-5,Boys,False
+Jalandhar,2004,69313.0,1-5,Boys,False
+SBS Nagar,2004,19473.0,1-5,Boys,True
+Hoshiarpur,2004,49791.0,1-5,Boys,False
+Rupnagar,2004,42611.0,1-5,Boys,False
+SAS Nagar,2004,,1-5,Boys,True
+Ludhiana,2004,98296.0,1-5,Boys,False
+Ferozepur,2004,73363.0,1-5,Boys,False
+Fazilka,2004,,1-5,Boys,True
+Faridkot,2004,26384.0,1-5,Boys,False
+Sri Muktsar Sahib,2004,40919.0,1-5,Boys,True
+Moga,2004,41715.0,1-5,Boys,True
+Bathinda,2004,67611.0,1-5,Boys,False
+Mansa,2004,32003.0,1-5,Boys,True
+Sangrur,2004,74283.0,1-5,Boys,False
+Barnala,2004,,1-5,Boys,True
+Patiala,2004,71651.0,1-5,Boys,False
+Fatehgarh Sahib,2004,21140.0,1-5,Boys,True
+Malerkotla,2004,,1-5,Boys,True
+Gurdaspur,2003,126760.0,1-5,Boys,False
+Pathankot,2003,,1-5,Boys,True
+Amritsar,2003,126919.0,1-5,Boys,False
+Tarn Taran,2003,,1-5,Boys,True
+Kapurthala,2003,31066.0,1-5,Boys,False
+Jalandhar,2003,70199.0,1-5,Boys,False
+SBS Nagar,2003,22151.0,1-5,Boys,True
+Hoshiarpur,2003,59903.0,1-5,Boys,False
+Rupnagar,2003,45586.0,1-5,Boys,False
+SAS Nagar,2003,,1-5,Boys,True
+Ludhiana,2003,107018.0,1-5,Boys,False
+Ferozepur,2003,81023.0,1-5,Boys,False
+Fazilka,2003,,1-5,Boys,True
+Faridkot,2003,29014.0,1-5,Boys,False
+Sri Muktsar Sahib,2003,40715.0,1-5,Boys,True
+Moga,2003,46863.0,1-5,Boys,True
+Bathinda,2003,63265.0,1-5,Boys,False
+Mansa,2003,34411.0,1-5,Boys,True
+Sangrur,2003,73971.0,1-5,Boys,False
+Barnala,2003,,1-5,Boys,True
+Patiala,2003,71875.0,1-5,Boys,False
+Fatehgarh Sahib,2003,19493.0,1-5,Boys,True
+Malerkotla,2003,,1-5,Boys,True
+Gurdaspur,2002,81863.0,1-5,Boys,False
+Pathankot,2002,,1-5,Boys,True
+Amritsar,2002,129041.0,1-5,Boys,False
+Tarn Taran,2002,,1-5,Boys,True
+Kapurthala,2002,30446.0,1-5,Boys,False
+Jalandhar,2002,77256.0,1-5,Boys,False
+SBS Nagar,2002,22318.0,1-5,Boys,True
+Hoshiarpur,2002,62598.0,1-5,Boys,False
+Rupnagar,2002,41274.0,1-5,Boys,False
+SAS Nagar,2002,,1-5,Boys,True
+Ludhiana,2002,103160.0,1-5,Boys,False
+Ferozepur,2002,75435.0,1-5,Boys,False
+Fazilka,2002,,1-5,Boys,True
+Faridkot,2002,28698.0,1-5,Boys,False
+Sri Muktsar Sahib,2002,40647.0,1-5,Boys,True
+Moga,2002,47187.0,1-5,Boys,True
+Bathinda,2002,59803.0,1-5,Boys,False
+Mansa,2002,31351.0,1-5,Boys,True
+Sangrur,2002,74480.0,1-5,Boys,False
+Barnala,2002,,1-5,Boys,True
+Patiala,2002,72478.0,1-5,Boys,False
+Fatehgarh Sahib,2002,22020.0,1-5,Boys,True
+Malerkotla,2002,,1-5,Boys,True
+Gurdaspur,2001,124301.0,1-5,Boys,False
+Pathankot,2001,,1-5,Boys,True
+Amritsar,2001,133362.0,1-5,Boys,False
+Tarn Taran,2001,,1-5,Boys,True
+Kapurthala,2001,30937.0,1-5,Boys,False
+Jalandhar,2001,79636.0,1-5,Boys,False
+SBS Nagar,2001,23349.0,1-5,Boys,True
+Hoshiarpur,2001,65599.0,1-5,Boys,False
+Rupnagar,2001,46269.0,1-5,Boys,False
+SAS Nagar,2001,,1-5,Boys,True
+Ludhiana,2001,107603.0,1-5,Boys,False
+Ferozepur,2001,79798.0,1-5,Boys,False
+Fazilka,2001,,1-5,Boys,True
+Faridkot,2001,28789.0,1-5,Boys,False
+Sri Muktsar Sahib,2001,40978.0,1-5,Boys,True
+Moga,2001,46863.0,1-5,Boys,True
+Bathinda,2001,70505.0,1-5,Boys,False
+Mansa,2001,45531.0,1-5,Boys,True
+Sangrur,2001,79686.0,1-5,Boys,False
+Barnala,2001,,1-5,Boys,True
+Patiala,2001,74004.0,1-5,Boys,False
+Fatehgarh Sahib,2001,21952.0,1-5,Boys,True
+Malerkotla,2001,,1-5,Boys,True
+Gurdaspur,2000,121456.0,1-5,Boys,False
+Pathankot,2000,,1-5,Boys,True
+Amritsar,2000,137098.0,1-5,Boys,False
+Tarn Taran,2000,,1-5,Boys,True
+Kapurthala,2000,31500.0,1-5,Boys,False
+Jalandhar,2000,80093.0,1-5,Boys,False
+SBS Nagar,2000,23385.0,1-5,Boys,True
+Hoshiarpur,2000,67672.0,1-5,Boys,False
+Rupnagar,2000,44745.0,1-5,Boys,False
+SAS Nagar,2000,,1-5,Boys,True
+Ludhiana,2000,113025.0,1-5,Boys,False
+Ferozepur,2000,80539.0,1-5,Boys,False
+Fazilka,2000,,1-5,Boys,True
+Faridkot,2000,30429.0,1-5,Boys,False
+Sri Muktsar Sahib,2000,44045.0,1-5,Boys,True
+Moga,2000,56984.0,1-5,Boys,True
+Bathinda,2000,71247.0,1-5,Boys,False
+Mansa,2000,36255.0,1-5,Boys,True
+Sangrur,2000,82330.0,1-5,Boys,False
+Barnala,2000,,1-5,Boys,True
+Patiala,2000,76191.0,1-5,Boys,False
+Fatehgarh Sahib,2000,23490.0,1-5,Boys,True
+Malerkotla,2000,,1-5,Boys,True
+Gurdaspur,1999,118444.0,1-5,Boys,False
+Pathankot,1999,,1-5,Boys,True
+Amritsar,1999,140627.0,1-5,Boys,False
+Tarn Taran,1999,,1-5,Boys,True
+Kapurthala,1999,31384.0,1-5,Boys,False
+Jalandhar,1999,80040.0,1-5,Boys,False
+SBS Nagar,1999,24551.0,1-5,Boys,True
+Hoshiarpur,1999,67959.0,1-5,Boys,False
+Rupnagar,1999,45907.0,1-5,Boys,False
+SAS Nagar,1999,,1-5,Boys,True
+Ludhiana,1999,112066.0,1-5,Boys,False
+Ferozepur,1999,94263.0,1-5,Boys,False
+Fazilka,1999,,1-5,Boys,True
+Faridkot,1999,30322.0,1-5,Boys,False
+Sri Muktsar Sahib,1999,42659.0,1-5,Boys,True
+Moga,1999,46949.0,1-5,Boys,True
+Bathinda,1999,67111.0,1-5,Boys,False
+Mansa,1999,35812.0,1-5,Boys,True
+Sangrur,1999,83649.0,1-5,Boys,False
+Barnala,1999,,1-5,Boys,True
+Patiala,1999,79484.0,1-5,Boys,False
+Fatehgarh Sahib,1999,23921.0,1-5,Boys,True
+Malerkotla,1999,,1-5,Boys,True
+Gurdaspur,1998,116721.0,1-5,Boys,False
+Pathankot,1998,,1-5,Boys,True
+Amritsar,1998,152368.0,1-5,Boys,False
+Tarn Taran,1998,,1-5,Boys,True
+Kapurthala,1998,31879.0,1-5,Boys,False
+Jalandhar,1998,79747.0,1-5,Boys,False
+SBS Nagar,1998,25340.0,1-5,Boys,True
+Hoshiarpur,1998,69826.0,1-5,Boys,False
+Rupnagar,1998,46975.0,1-5,Boys,False
+SAS Nagar,1998,,1-5,Boys,True
+Ludhiana,1998,106517.0,1-5,Boys,False
+Ferozepur,1998,94408.0,1-5,Boys,False
+Fazilka,1998,,1-5,Boys,True
+Faridkot,1998,30687.0,1-5,Boys,False
+Sri Muktsar Sahib,1998,40921.0,1-5,Boys,True
+Moga,1998,46566.0,1-5,Boys,True
+Bathinda,1998,65481.0,1-5,Boys,False
+Mansa,1998,36300.0,1-5,Boys,True
+Sangrur,1998,84513.0,1-5,Boys,False
+Barnala,1998,,1-5,Boys,True
+Patiala,1998,81030.0,1-5,Boys,False
+Fatehgarh Sahib,1998,24419.0,1-5,Boys,True
+Malerkotla,1998,,1-5,Boys,True
+Gurdaspur,1997,115633.0,1-5,Boys,False
+Pathankot,1997,,1-5,Boys,True
+Amritsar,1997,141761.0,1-5,Boys,False
+Tarn Taran,1997,,1-5,Boys,True
+Kapurthala,1997,30499.0,1-5,Boys,False
+Jalandhar,1997,79083.0,1-5,Boys,False
+SBS Nagar,1997,24310.0,1-5,Boys,True
+Hoshiarpur,1997,66797.0,1-5,Boys,False
+Rupnagar,1997,45545.0,1-5,Boys,False
+SAS Nagar,1997,,1-5,Boys,True
+Ludhiana,1997,106509.0,1-5,Boys,False
+Ferozepur,1997,94081.0,1-5,Boys,False
+Fazilka,1997,,1-5,Boys,True
+Faridkot,1997,29551.0,1-5,Boys,False
+Sri Muktsar Sahib,1997,38728.0,1-5,Boys,True
+Moga,1997,46636.0,1-5,Boys,True
+Bathinda,1997,66308.0,1-5,Boys,False
+Mansa,1997,33635.0,1-5,Boys,True
+Sangrur,1997,83969.0,1-5,Boys,False
+Barnala,1997,,1-5,Boys,True
+Patiala,1997,81509.0,1-5,Boys,False
+Fatehgarh Sahib,1997,24311.0,1-5,Boys,True
+Malerkotla,1997,,1-5,Boys,True
+Gurdaspur,1996,113410.0,1-5,Boys,False
+Pathankot,1996,,1-5,Boys,True
+Amritsar,1996,141966.0,1-5,Boys,False
+Tarn Taran,1996,,1-5,Boys,True
+Kapurthala,1996,29723.0,1-5,Boys,False
+Jalandhar,1996,81946.0,1-5,Boys,False
+SBS Nagar,1996,23479.0,1-5,Boys,True
+Hoshiarpur,1996,60982.0,1-5,Boys,False
+Rupnagar,1996,45901.0,1-5,Boys,False
+SAS Nagar,1996,,1-5,Boys,True
+Ludhiana,1996,111811.0,1-5,Boys,False
+Ferozepur,1996,93218.0,1-5,Boys,False
+Fazilka,1996,,1-5,Boys,True
+Faridkot,1996,31033.0,1-5,Boys,False
+Sri Muktsar Sahib,1996,36207.0,1-5,Boys,True
+Moga,1996,46912.0,1-5,Boys,True
+Bathinda,1996,67486.0,1-5,Boys,False
+Mansa,1996,33080.0,1-5,Boys,True
+Sangrur,1996,86000.0,1-5,Boys,False
+Barnala,1996,,1-5,Boys,True
+Patiala,1996,80398.0,1-5,Boys,False
+Fatehgarh Sahib,1996,24507.0,1-5,Boys,True
+Malerkotla,1996,,1-5,Boys,True
+Gurdaspur,1995,110388.0,1-5,Boys,False
+Pathankot,1995,,1-5,Boys,True
+Amritsar,1995,136605.0,1-5,Boys,False
+Tarn Taran,1995,,1-5,Boys,True
+Kapurthala,1995,29468.0,1-5,Boys,False
+Jalandhar,1995,98056.0,1-5,Boys,False
+SBS Nagar,1995,,1-5,Boys,True
+Hoshiarpur,1995,70230.0,1-5,Boys,False
+Rupnagar,1995,46992.0,1-5,Boys,False
+SAS Nagar,1995,,1-5,Boys,True
+Ludhiana,1995,108586.0,1-5,Boys,False
+Ferozepur,1995,94386.0,1-5,Boys,False
+Fazilka,1995,,1-5,Boys,True
+Faridkot,1995,112557.0,1-5,Boys,False
+Sri Muktsar Sahib,1995,,1-5,Boys,True
+Moga,1995,,1-5,Boys,True
+Bathinda,1995,65327.0,1-5,Boys,False
+Mansa,1995,35411.0,1-5,Boys,True
+Sangrur,1995,84576.0,1-5,Boys,False
+Barnala,1995,,1-5,Boys,True
+Patiala,1995,79489.0,1-5,Boys,False
+Fatehgarh Sahib,1995,24185.0,1-5,Boys,True
+Malerkotla,1995,,1-5,Boys,True
+Gurdaspur,1994,107858.0,1-5,Boys,False
+Pathankot,1994,,1-5,Boys,True
+Amritsar,1994,146388.0,1-5,Boys,False
+Tarn Taran,1994,,1-5,Boys,True
+Kapurthala,1994,30439.0,1-5,Boys,False
+Jalandhar,1994,103078.0,1-5,Boys,False
+SBS Nagar,1994,,1-5,Boys,True
+Hoshiarpur,1994,71978.0,1-5,Boys,False
+Rupnagar,1994,45129.0,1-5,Boys,False
+SAS Nagar,1994,,1-5,Boys,True
+Ludhiana,1994,107102.0,1-5,Boys,False
+Ferozepur,1994,93315.0,1-5,Boys,False
+Fazilka,1994,,1-5,Boys,True
+Faridkot,1994,110434.0,1-5,Boys,False
+Sri Muktsar Sahib,1994,,1-5,Boys,True
+Moga,1994,,1-5,Boys,True
+Bathinda,1994,65487.0,1-5,Boys,False
+Mansa,1994,31460.0,1-5,Boys,True
+Sangrur,1994,85239.0,1-5,Boys,False
+Barnala,1994,,1-5,Boys,True
+Patiala,1994,79691.0,1-5,Boys,False
+Fatehgarh Sahib,1994,24286.0,1-5,Boys,True
+Malerkotla,1994,,1-5,Boys,True
+Gurdaspur,1993,105573.0,1-5,Boys,False
+Pathankot,1993,,1-5,Boys,True
+Amritsar,1993,143359.0,1-5,Boys,False
+Tarn Taran,1993,,1-5,Boys,True
+Kapurthala,1993,31022.0,1-5,Boys,False
+Jalandhar,1993,103743.0,1-5,Boys,False
+SBS Nagar,1993,,1-5,Boys,True
+Hoshiarpur,1993,72279.0,1-5,Boys,False
+Rupnagar,1993,48361.0,1-5,Boys,False
+SAS Nagar,1993,,1-5,Boys,True
+Ludhiana,1993,105713.0,1-5,Boys,False
+Ferozepur,1993,94812.0,1-5,Boys,False
+Fazilka,1993,,1-5,Boys,True
+Faridkot,1993,112703.0,1-5,Boys,False
+Sri Muktsar Sahib,1993,,1-5,Boys,True
+Moga,1993,,1-5,Boys,True
+Bathinda,1993,68739.0,1-5,Boys,False
+Mansa,1993,30510.0,1-5,Boys,True
+Sangrur,1993,87326.0,1-5,Boys,False
+Barnala,1993,,1-5,Boys,True
+Patiala,1993,81914.0,1-5,Boys,False
+Fatehgarh Sahib,1993,23993.0,1-5,Boys,True
+Malerkotla,1993,,1-5,Boys,True
+Gurdaspur,1992,99689.0,1-5,Boys,False
+Pathankot,1992,,1-5,Boys,True
+Amritsar,1992,146641.0,1-5,Boys,False
+Tarn Taran,1992,,1-5,Boys,True
+Kapurthala,1992,33683.0,1-5,Boys,False
+Jalandhar,1992,101964.0,1-5,Boys,False
+SBS Nagar,1992,,1-5,Boys,True
+Hoshiarpur,1992,75342.0,1-5,Boys,False
+Rupnagar,1992,45949.0,1-5,Boys,False
+SAS Nagar,1992,,1-5,Boys,True
+Ludhiana,1992,106898.0,1-5,Boys,False
+Ferozepur,1992,88520.0,1-5,Boys,False
+Fazilka,1992,,1-5,Boys,True
+Faridkot,1992,108316.0,1-5,Boys,False
+Sri Muktsar Sahib,1992,,1-5,Boys,True
+Moga,1992,,1-5,Boys,True
+Bathinda,1992,73770.0,1-5,Boys,False
+Mansa,1992,30292.0,1-5,Boys,True
+Sangrur,1992,86866.0,1-5,Boys,False
+Barnala,1992,,1-5,Boys,True
+Patiala,1992,81665.0,1-5,Boys,False
+Fatehgarh Sahib,1992,25869.0,1-5,Boys,True
+Malerkotla,1992,,1-5,Boys,True
+Gurdaspur,1991,100780.0,1-5,Boys,False
+Pathankot,1991,,1-5,Boys,True
+Amritsar,1991,149705.0,1-5,Boys,False
+Tarn Taran,1991,,1-5,Boys,True
+Kapurthala,1991,30353.0,1-5,Boys,False
+Jalandhar,1991,106643.0,1-5,Boys,False
+SBS Nagar,1991,,1-5,Boys,True
+Hoshiarpur,1991,78323.0,1-5,Boys,False
+Rupnagar,1991,47066.0,1-5,Boys,False
+SAS Nagar,1991,,1-5,Boys,True
+Ludhiana,1991,107470.0,1-5,Boys,False
+Ferozepur,1991,88988.0,1-5,Boys,False
+Fazilka,1991,,1-5,Boys,True
+Faridkot,1991,116947.0,1-5,Boys,False
+Sri Muktsar Sahib,1991,,1-5,Boys,True
+Moga,1991,,1-5,Boys,True
+Bathinda,1991,88954.0,1-5,Boys,False
+Mansa,1991,,1-5,Boys,True
+Sangrur,1991,89100.0,1-5,Boys,False
+Barnala,1991,,1-5,Boys,True
+Patiala,1991,104916.0,1-5,Boys,False
+Fatehgarh Sahib,1991,,1-5,Boys,True
+Malerkotla,1991,,1-5,Boys,True
+Gurdaspur,1990,95774.0,1-5,Boys,False
+Pathankot,1990,,1-5,Boys,True
+Amritsar,1990,154249.0,1-5,Boys,False
+Tarn Taran,1990,,1-5,Boys,True
+Kapurthala,1990,31696.0,1-5,Boys,False
+Jalandhar,1990,107095.0,1-5,Boys,False
+SBS Nagar,1990,,1-5,Boys,True
+Hoshiarpur,1990,79292.0,1-5,Boys,False
+Rupnagar,1990,48152.0,1-5,Boys,False
+SAS Nagar,1990,,1-5,Boys,True
+Ludhiana,1990,107735.0,1-5,Boys,False
+Ferozepur,1990,93228.0,1-5,Boys,False
+Fazilka,1990,,1-5,Boys,True
+Faridkot,1990,113847.0,1-5,Boys,False
+Sri Muktsar Sahib,1990,,1-5,Boys,True
+Moga,1990,,1-5,Boys,True
+Bathinda,1990,90720.0,1-5,Boys,False
+Mansa,1990,,1-5,Boys,True
+Sangrur,1990,88488.0,1-5,Boys,False
+Barnala,1990,,1-5,Boys,True
+Patiala,1990,104616.0,1-5,Boys,False
+Fatehgarh Sahib,1990,,1-5,Boys,True
+Malerkotla,1990,,1-5,Boys,True
+Gurdaspur,1989,93070.0,1-5,Boys,False
+Pathankot,1989,,1-5,Boys,True
+Amritsar,1989,154056.0,1-5,Boys,False
+Tarn Taran,1989,,1-5,Boys,True
+Kapurthala,1989,30958.0,1-5,Boys,False
+Jalandhar,1989,102342.0,1-5,Boys,False
+SBS Nagar,1989,,1-5,Boys,True
+Hoshiarpur,1989,80915.0,1-5,Boys,False
+Rupnagar,1989,48330.0,1-5,Boys,False
+SAS Nagar,1989,,1-5,Boys,True
+Ludhiana,1989,108553.0,1-5,Boys,False
+Ferozepur,1989,93361.0,1-5,Boys,False
+Fazilka,1989,,1-5,Boys,True
+Faridkot,1989,116988.0,1-5,Boys,False
+Sri Muktsar Sahib,1989,,1-5,Boys,True
+Moga,1989,,1-5,Boys,True
+Bathinda,1989,89094.0,1-5,Boys,False
+Mansa,1989,,1-5,Boys,True
+Sangrur,1989,86363.0,1-5,Boys,False
+Barnala,1989,,1-5,Boys,True
+Patiala,1989,104699.0,1-5,Boys,False
+Fatehgarh Sahib,1989,,1-5,Boys,True
+Malerkotla,1989,,1-5,Boys,True
+Gurdaspur,2022,25852.0,1-5,Girls,False
+Pathankot,2022,8819.0,1-5,Girls,True
+Amritsar,2022,41542.0,1-5,Girls,False
+Tarn Taran,2022,25468.0,1-5,Girls,True
+Kapurthala,2022,13301.0,1-5,Girls,False
+Jalandhar,2022,32985.0,1-5,Girls,False
+SBS Nagar,2022,11181.0,1-5,Girls,True
+Hoshiarpur,2022,27317.0,1-5,Girls,False
+Rupnagar,2022,12067.0,1-5,Girls,False
+SAS Nagar,2022,23097.0,1-5,Girls,True
+Ludhiana,2022,58853.0,1-5,Girls,False
+Ferozepur,2022,23111.0,1-5,Girls,False
+Fazilka,2022,28121.0,1-5,Girls,True
+Faridkot,2022,12927.0,1-5,Girls,False
+Sri Muktsar Sahib,2022,20211.0,1-5,Girls,True
+Moga,2022,19526.0,1-5,Girls,True
+Bathinda,2022,28301.0,1-5,Girls,False
+Mansa,2022,15831.0,1-5,Girls,True
+Sangrur,2022,20427.0,1-5,Girls,False
+Barnala,2022,10132.0,1-5,Girls,True
+Patiala,2022,34025.0,1-5,Girls,False
+Fatehgarh Sahib,2022,10660.0,1-5,Girls,True
+Malerkotla,2022,5830.0,1-5,Girls,True
+Gurdaspur,2021,31869.0,1-5,Girls,False
+Pathankot,2021,10183.0,1-5,Girls,True
+Amritsar,2021,50150.0,1-5,Girls,False
+Tarn Taran,2021,30841.0,1-5,Girls,True
+Kapurthala,2021,16378.0,1-5,Girls,False
+Jalandhar,2021,38745.0,1-5,Girls,False
+SBS Nagar,2021,13783.0,1-5,Girls,True
+Hoshiarpur,2021,34294.0,1-5,Girls,False
+Rupnagar,2021,15071.0,1-5,Girls,False
+SAS Nagar,2021,28237.0,1-5,Girls,True
+Ludhiana,2021,68976.0,1-5,Girls,False
+Ferozepur,2021,29295.0,1-5,Girls,False
+Fazilka,2021,34127.0,1-5,Girls,True
+Faridkot,2021,15906.0,1-5,Girls,False
+Sri Muktsar Sahib,2021,24568.0,1-5,Girls,True
+Moga,2021,24749.0,1-5,Girls,True
+Bathinda,2021,33960.0,1-5,Girls,False
+Mansa,2021,19830.0,1-5,Girls,True
+Sangrur,2021,33211.0,1-5,Girls,False
+Barnala,2021,12527.0,1-5,Girls,True
+Patiala,2021,41824.0,1-5,Girls,False
+Fatehgarh Sahib,2021,13996.0,1-5,Girls,True
+Malerkotla,2021,,1-5,Girls,True
+Gurdaspur,2020,22654.0,1-5,Girls,False
+Pathankot,2020,6978.0,1-5,Girls,True
+Amritsar,2020,37859.0,1-5,Girls,False
+Tarn Taran,2020,22714.0,1-5,Girls,True
+Kapurthala,2020,12074.0,1-5,Girls,False
+Jalandhar,2020,29073.0,1-5,Girls,False
+SBS Nagar,2020,9330.0,1-5,Girls,True
+Hoshiarpur,2020,23269.0,1-5,Girls,False
+Rupnagar,2020,10470.0,1-5,Girls,False
+SAS Nagar,2020,18384.0,1-5,Girls,True
+Ludhiana,2020,48410.0,1-5,Girls,False
+Ferozepur,2020,20850.0,1-5,Girls,False
+Fazilka,2020,24637.0,1-5,Girls,True
+Faridkot,2020,11606.0,1-5,Girls,False
+Sri Muktsar Sahib,2020,17894.0,1-5,Girls,True
+Moga,2020,17543.0,1-5,Girls,True
+Bathinda,2020,23715.0,1-5,Girls,False
+Mansa,2020,14502.0,1-5,Girls,True
+Sangrur,2020,23598.0,1-5,Girls,False
+Barnala,2020,8921.0,1-5,Girls,True
+Patiala,2020,29305.0,1-5,Girls,False
+Fatehgarh Sahib,2020,9137.0,1-5,Girls,True
+Malerkotla,2020,,1-5,Girls,True
+Gurdaspur,2019,28102.0,1-5,Girls,False
+Pathankot,2019,8850.0,1-5,Girls,True
+Amritsar,2019,45398.0,1-5,Girls,False
+Tarn Taran,2019,27435.0,1-5,Girls,True
+Kapurthala,2019,14687.0,1-5,Girls,False
+Jalandhar,2019,34643.0,1-5,Girls,False
+SBS Nagar,2019,11147.0,1-5,Girls,True
+Hoshiarpur,2019,29757.0,1-5,Girls,False
+Rupnagar,2019,13586.0,1-5,Girls,False
+SAS Nagar,2019,21799.0,1-5,Girls,True
+Ludhiana,2019,54808.0,1-5,Girls,False
+Ferozepur,2019,25828.0,1-5,Girls,False
+Fazilka,2019,29860.0,1-5,Girls,True
+Faridkot,2019,14303.0,1-5,Girls,False
+Sri Muktsar Sahib,2019,22072.0,1-5,Girls,True
+Moga,2019,22098.0,1-5,Girls,True
+Bathinda,2019,29137.0,1-5,Girls,False
+Mansa,2019,17994.0,1-5,Girls,True
+Sangrur,2019,28533.0,1-5,Girls,False
+Barnala,2019,11477.0,1-5,Girls,True
+Patiala,2019,36540.0,1-5,Girls,False
+Fatehgarh Sahib,2019,11586.0,1-5,Girls,True
+Malerkotla,2019,,1-5,Girls,True
+Gurdaspur,2018,25195.0,1-5,Girls,False
+Pathankot,2018,7849.0,1-5,Girls,True
+Amritsar,2018,38069.0,1-5,Girls,False
+Tarn Taran,2018,23715.0,1-5,Girls,True
+Kapurthala,2018,13097.0,1-5,Girls,False
+Jalandhar,2018,30294.0,1-5,Girls,False
+SBS Nagar,2018,10001.0,1-5,Girls,True
+Hoshiarpur,2018,26045.0,1-5,Girls,False
+Rupnagar,2018,11550.0,1-5,Girls,False
+SAS Nagar,2018,16539.0,1-5,Girls,True
+Ludhiana,2018,45081.0,1-5,Girls,False
+Ferozepur,2018,21010.0,1-5,Girls,False
+Fazilka,2018,24894.0,1-5,Girls,True
+Faridkot,2018,12025.0,1-5,Girls,False
+Sri Muktsar Sahib,2018,19011.0,1-5,Girls,True
+Moga,2018,18048.0,1-5,Girls,True
+Bathinda,2018,23917.0,1-5,Girls,False
+Mansa,2018,15278.0,1-5,Girls,True
+Sangrur,2018,25428.0,1-5,Girls,False
+Barnala,2018,9277.0,1-5,Girls,True
+Patiala,2018,30527.0,1-5,Girls,False
+Fatehgarh Sahib,2018,9841.0,1-5,Girls,True
+Malerkotla,2018,,1-5,Girls,True
+Gurdaspur,2017,25195.0,1-5,Girls,False
+Pathankot,2017,7849.0,1-5,Girls,True
+Amritsar,2017,38069.0,1-5,Girls,False
+Tarn Taran,2017,23715.0,1-5,Girls,True
+Kapurthala,2017,13097.0,1-5,Girls,False
+Jalandhar,2017,30294.0,1-5,Girls,False
+SBS Nagar,2017,10001.0,1-5,Girls,True
+Hoshiarpur,2017,26045.0,1-5,Girls,False
+Rupnagar,2017,11550.0,1-5,Girls,False
+SAS Nagar,2017,16539.0,1-5,Girls,True
+Ludhiana,2017,45081.0,1-5,Girls,False
+Ferozepur,2017,21010.0,1-5,Girls,False
+Fazilka,2017,24894.0,1-5,Girls,True
+Faridkot,2017,12025.0,1-5,Girls,False
+Sri Muktsar Sahib,2017,19011.0,1-5,Girls,True
+Moga,2017,18048.0,1-5,Girls,True
+Bathinda,2017,23917.0,1-5,Girls,False
+Mansa,2017,15278.0,1-5,Girls,True
+Sangrur,2017,25428.0,1-5,Girls,False
+Barnala,2017,9277.0,1-5,Girls,True
+Patiala,2017,30527.0,1-5,Girls,False
+Fatehgarh Sahib,2017,9841.0,1-5,Girls,True
+Malerkotla,2017,,1-5,Girls,True
+Gurdaspur,2016,26247.0,1-5,Girls,False
+Pathankot,2016,8321.0,1-5,Girls,True
+Amritsar,2016,39313.0,1-5,Girls,False
+Tarn Taran,2016,24687.0,1-5,Girls,True
+Kapurthala,2016,13363.0,1-5,Girls,False
+Jalandhar,2016,31530.0,1-5,Girls,False
+SBS Nagar,2016,10432.0,1-5,Girls,True
+Hoshiarpur,2016,26881.0,1-5,Girls,False
+Rupnagar,2016,11936.0,1-5,Girls,False
+SAS Nagar,2016,16155.0,1-5,Girls,True
+Ludhiana,2016,45262.0,1-5,Girls,False
+Ferozepur,2016,21337.0,1-5,Girls,False
+Fazilka,2016,25205.0,1-5,Girls,True
+Faridkot,2016,12539.0,1-5,Girls,False
+Sri Muktsar Sahib,2016,19390.0,1-5,Girls,True
+Moga,2016,18793.0,1-5,Girls,True
+Bathinda,2016,24610.0,1-5,Girls,False
+Mansa,2016,16163.0,1-5,Girls,True
+Sangrur,2016,26375.0,1-5,Girls,False
+Barnala,2016,9550.0,1-5,Girls,True
+Patiala,2016,31347.0,1-5,Girls,False
+Fatehgarh Sahib,2016,10336.0,1-5,Girls,True
+Malerkotla,2016,,1-5,Girls,True
+Gurdaspur,2015,28112.0,1-5,Girls,False
+Pathankot,2015,8910.0,1-5,Girls,True
+Amritsar,2015,42312.0,1-5,Girls,False
+Tarn Taran,2015,26307.0,1-5,Girls,True
+Kapurthala,2015,14789.0,1-5,Girls,False
+Jalandhar,2015,33330.0,1-5,Girls,False
+SBS Nagar,2015,11911.0,1-5,Girls,True
+Hoshiarpur,2015,29713.0,1-5,Girls,False
+Rupnagar,2015,12902.0,1-5,Girls,False
+SAS Nagar,2015,16709.0,1-5,Girls,True
+Ludhiana,2015,50415.0,1-5,Girls,False
+Ferozepur,2015,22589.0,1-5,Girls,False
+Fazilka,2015,25315.0,1-5,Girls,True
+Faridkot,2015,13790.0,1-5,Girls,False
+Sri Muktsar Sahib,2015,20523.0,1-5,Girls,True
+Moga,2015,21176.0,1-5,Girls,True
+Bathinda,2015,26537.0,1-5,Girls,False
+Mansa,2015,17984.0,1-5,Girls,True
+Sangrur,2015,29207.0,1-5,Girls,False
+Barnala,2015,10731.0,1-5,Girls,True
+Patiala,2015,33757.0,1-5,Girls,False
+Fatehgarh Sahib,2015,10930.0,1-5,Girls,True
+Malerkotla,2015,,1-5,Girls,True
+Gurdaspur,2014,32263.0,1-5,Girls,False
+Pathankot,2014,10259.0,1-5,Girls,True
+Amritsar,2014,50313.0,1-5,Girls,False
+Tarn Taran,2014,29323.0,1-5,Girls,True
+Kapurthala,2014,16644.0,1-5,Girls,False
+Jalandhar,2014,42563.0,1-5,Girls,False
+SBS Nagar,2014,12365.0,1-5,Girls,True
+Hoshiarpur,2014,33826.0,1-5,Girls,False
+Rupnagar,2014,14065.0,1-5,Girls,False
+SAS Nagar,2014,17907.0,1-5,Girls,True
+Ludhiana,2014,58522.0,1-5,Girls,False
+Ferozepur,2014,23678.0,1-5,Girls,False
+Fazilka,2014,28907.0,1-5,Girls,True
+Faridkot,2014,15026.0,1-5,Girls,False
+Sri Muktsar Sahib,2014,23177.0,1-5,Girls,True
+Moga,2014,23614.0,1-5,Girls,True
+Bathinda,2014,29199.0,1-5,Girls,False
+Mansa,2014,19339.0,1-5,Girls,True
+Sangrur,2014,33060.0,1-5,Girls,False
+Barnala,2014,12203.0,1-5,Girls,True
+Patiala,2014,37881.0,1-5,Girls,False
+Fatehgarh Sahib,2014,12414.0,1-5,Girls,True
+Malerkotla,2014,,1-5,Girls,True
+Gurdaspur,2013,67211.0,1-5,Girls,False
+Pathankot,2013,25811.0,1-5,Girls,True
+Amritsar,2013,104585.0,1-5,Girls,False
+Tarn Taran,2013,50293.0,1-5,Girls,True
+Kapurthala,2013,34991.0,1-5,Girls,False
+Jalandhar,2013,88037.0,1-5,Girls,False
+SBS Nagar,2013,23737.0,1-5,Girls,True
+Hoshiarpur,2013,63974.0,1-5,Girls,False
+Rupnagar,2013,25600.0,1-5,Girls,False
+SAS Nagar,2013,40101.0,1-5,Girls,True
+Ludhiana,2013,157425.0,1-5,Girls,False
+Ferozepur,2013,42116.0,1-5,Girls,False
+Fazilka,2013,46687.0,1-5,Girls,True
+Faridkot,2013,27054.0,1-5,Girls,False
+Sri Muktsar Sahib,2013,37470.0,1-5,Girls,True
+Moga,2013,41933.0,1-5,Girls,True
+Bathinda,2013,54824.0,1-5,Girls,False
+Mansa,2013,31651.0,1-5,Girls,True
+Sangrur,2013,65563.0,1-5,Girls,False
+Barnala,2013,24772.0,1-5,Girls,True
+Patiala,2013,80278.0,1-5,Girls,False
+Fatehgarh Sahib,2013,22905.0,1-5,Girls,True
+Malerkotla,2013,,1-5,Girls,True
+Gurdaspur,2012,32143.0,1-5,Girls,False
+Pathankot,2012,10642.0,1-5,Girls,True
+Amritsar,2012,43799.0,1-5,Girls,False
+Tarn Taran,2012,29356.0,1-5,Girls,True
+Kapurthala,2012,17602.0,1-5,Girls,False
+Jalandhar,2012,36629.0,1-5,Girls,False
+SBS Nagar,2012,13116.0,1-5,Girls,True
+Hoshiarpur,2012,34204.0,1-5,Girls,False
+Rupnagar,2012,14653.0,1-5,Girls,False
+SAS Nagar,2012,16348.0,1-5,Girls,True
+Ludhiana,2012,53829.0,1-5,Girls,False
+Ferozepur,2012,23985.0,1-5,Girls,False
+Fazilka,2012,27779.0,1-5,Girls,True
+Faridkot,2012,16003.0,1-5,Girls,False
+Sri Muktsar Sahib,2012,23040.0,1-5,Girls,True
+Moga,2012,26145.0,1-5,Girls,True
+Bathinda,2012,30624.0,1-5,Girls,False
+Mansa,2012,21418.0,1-5,Girls,True
+Sangrur,2012,34572.0,1-5,Girls,False
+Barnala,2012,13929.0,1-5,Girls,True
+Patiala,2012,38316.0,1-5,Girls,False
+Fatehgarh Sahib,2012,13054.0,1-5,Girls,True
+Malerkotla,2012,,1-5,Girls,True
+Gurdaspur,2011,66637.0,1-5,Girls,False
+Pathankot,2011,26264.0,1-5,Girls,True
+Amritsar,2011,102917.0,1-5,Girls,False
+Tarn Taran,2011,51703.0,1-5,Girls,True
+Kapurthala,2011,37302.0,1-5,Girls,False
+Jalandhar,2011,91668.0,1-5,Girls,False
+SBS Nagar,2011,24474.0,1-5,Girls,True
+Hoshiarpur,2011,66450.0,1-5,Girls,False
+Rupnagar,2011,27238.0,1-5,Girls,False
+SAS Nagar,2011,36724.0,1-5,Girls,True
+Ludhiana,2011,129933.0,1-5,Girls,False
+Ferozepur,2011,43531.0,1-5,Girls,False
+Fazilka,2011,48066.0,1-5,Girls,True
+Faridkot,2011,27340.0,1-5,Girls,False
+Sri Muktsar Sahib,2011,38504.0,1-5,Girls,True
+Moga,2011,44495.0,1-5,Girls,True
+Bathinda,2011,56596.0,1-5,Girls,False
+Mansa,2011,34391.0,1-5,Girls,True
+Sangrur,2011,68577.0,1-5,Girls,False
+Barnala,2011,26839.0,1-5,Girls,True
+Patiala,2011,81848.0,1-5,Girls,False
+Fatehgarh Sahib,2011,23544.0,1-5,Girls,True
+Malerkotla,2011,,1-5,Girls,True
+Gurdaspur,2010,78678.0,1-5,Girls,False
+Pathankot,2010,,1-5,Girls,True
+Amritsar,2010,76518.0,1-5,Girls,False
+Tarn Taran,2010,36967.0,1-5,Girls,True
+Kapurthala,2010,24776.0,1-5,Girls,False
+Jalandhar,2010,43924.0,1-5,Girls,False
+SBS Nagar,2010,17357.0,1-5,Girls,True
+Hoshiarpur,2010,48591.0,1-5,Girls,False
+Rupnagar,2010,21148.0,1-5,Girls,False
+SAS Nagar,2010,22664.0,1-5,Girls,True
+Ludhiana,2010,104963.0,1-5,Girls,False
+Ferozepur,2010,78385.0,1-5,Girls,False
+Fazilka,2010,,1-5,Girls,True
+Faridkot,2010,24631.0,1-5,Girls,False
+Sri Muktsar Sahib,2010,32384.0,1-5,Girls,True
+Moga,2010,39803.0,1-5,Girls,True
+Bathinda,2010,46879.0,1-5,Girls,False
+Mansa,2010,28797.0,1-5,Girls,True
+Sangrur,2010,50811.0,1-5,Girls,False
+Barnala,2010,18436.0,1-5,Girls,True
+Patiala,2010,60495.0,1-5,Girls,False
+Fatehgarh Sahib,2010,18806.0,1-5,Girls,True
+Malerkotla,2010,,1-5,Girls,True
+Gurdaspur,2009,74763.0,1-5,Girls,False
+Pathankot,2009,,1-5,Girls,True
+Amritsar,2009,74594.0,1-5,Girls,False
+Tarn Taran,2009,39979.0,1-5,Girls,True
+Kapurthala,2009,22117.0,1-5,Girls,False
+Jalandhar,2009,44041.0,1-5,Girls,False
+SBS Nagar,2009,15952.0,1-5,Girls,True
+Hoshiarpur,2009,48137.0,1-5,Girls,False
+Rupnagar,2009,21573.0,1-5,Girls,False
+SAS Nagar,2009,19588.0,1-5,Girls,True
+Ludhiana,2009,103234.0,1-5,Girls,False
+Ferozepur,2009,73493.0,1-5,Girls,False
+Fazilka,2009,,1-5,Girls,True
+Faridkot,2009,24663.0,1-5,Girls,False
+Sri Muktsar Sahib,2009,32072.0,1-5,Girls,True
+Moga,2009,39129.0,1-5,Girls,True
+Bathinda,2009,45452.0,1-5,Girls,False
+Mansa,2009,27193.0,1-5,Girls,True
+Sangrur,2009,47263.0,1-5,Girls,False
+Barnala,2009,14815.0,1-5,Girls,True
+Patiala,2009,51999.0,1-5,Girls,False
+Fatehgarh Sahib,2009,15953.0,1-5,Girls,True
+Malerkotla,2009,,1-5,Girls,True
+Gurdaspur,2008,,1-5,Girls,False
+Pathankot,2008,,1-5,Girls,True
+Amritsar,2008,,1-5,Girls,False
+Tarn Taran,2008,,1-5,Girls,True
+Kapurthala,2008,,1-5,Girls,False
+Jalandhar,2008,,1-5,Girls,False
+SBS Nagar,2008,,1-5,Girls,True
+Hoshiarpur,2008,,1-5,Girls,False
+Rupnagar,2008,,1-5,Girls,False
+SAS Nagar,2008,,1-5,Girls,True
+Ludhiana,2008,,1-5,Girls,False
+Ferozepur,2008,,1-5,Girls,False
+Fazilka,2008,,1-5,Girls,True
+Faridkot,2008,,1-5,Girls,False
+Sri Muktsar Sahib,2008,,1-5,Girls,True
+Moga,2008,,1-5,Girls,True
+Bathinda,2008,,1-5,Girls,False
+Mansa,2008,,1-5,Girls,True
+Sangrur,2008,,1-5,Girls,False
+Barnala,2008,,1-5,Girls,True
+Patiala,2008,,1-5,Girls,False
+Fatehgarh Sahib,2008,,1-5,Girls,True
+Malerkotla,2008,,1-5,Girls,True
+Gurdaspur,2007,71139.0,1-5,Girls,False
+Pathankot,2007,,1-5,Girls,True
+Amritsar,2007,58779.0,1-5,Girls,False
+Tarn Taran,2007,44196.0,1-5,Girls,True
+Kapurthala,2007,24940.0,1-5,Girls,False
+Jalandhar,2007,61230.0,1-5,Girls,False
+SBS Nagar,2007,15237.0,1-5,Girls,True
+Hoshiarpur,2007,38567.0,1-5,Girls,False
+Rupnagar,2007,17692.0,1-5,Girls,False
+SAS Nagar,2007,17288.0,1-5,Girls,True
+Ludhiana,2007,89822.0,1-5,Girls,False
+Ferozepur,2007,78663.0,1-5,Girls,False
+Fazilka,2007,,1-5,Girls,True
+Faridkot,2007,23181.0,1-5,Girls,False
+Sri Muktsar Sahib,2007,37479.0,1-5,Girls,True
+Moga,2007,37170.0,1-5,Girls,True
+Bathinda,2007,48645.0,1-5,Girls,False
+Mansa,2007,21580.0,1-5,Girls,True
+Sangrur,2007,53143.0,1-5,Girls,False
+Barnala,2007,14546.0,1-5,Girls,True
+Patiala,2007,50102.0,1-5,Girls,False
+Fatehgarh Sahib,2007,15830.0,1-5,Girls,True
+Malerkotla,2007,,1-5,Girls,True
+Gurdaspur,2006,103762.0,1-5,Girls,False
+Pathankot,2006,,1-5,Girls,True
+Amritsar,2006,72032.0,1-5,Girls,False
+Tarn Taran,2006,44196.0,1-5,Girls,True
+Kapurthala,2006,25891.0,1-5,Girls,False
+Jalandhar,2006,61230.0,1-5,Girls,False
+SBS Nagar,2006,16519.0,1-5,Girls,True
+Hoshiarpur,2006,42430.0,1-5,Girls,False
+Rupnagar,2006,23265.0,1-5,Girls,False
+SAS Nagar,2006,16322.0,1-5,Girls,True
+Ludhiana,2006,84913.0,1-5,Girls,False
+Ferozepur,2006,78813.0,1-5,Girls,False
+Fazilka,2006,,1-5,Girls,True
+Faridkot,2006,22419.0,1-5,Girls,False
+Sri Muktsar Sahib,2006,37529.0,1-5,Girls,True
+Moga,2006,38130.0,1-5,Girls,True
+Bathinda,2006,59590.0,1-5,Girls,False
+Mansa,2006,31880.0,1-5,Girls,True
+Sangrur,2006,67888.0,1-5,Girls,False
+Barnala,2006,,1-5,Girls,True
+Patiala,2006,51587.0,1-5,Girls,False
+Fatehgarh Sahib,2006,15830.0,1-5,Girls,True
+Malerkotla,2006,,1-5,Girls,True
+Gurdaspur,2005,101208.0,1-5,Girls,False
+Pathankot,2005,,1-5,Girls,True
+Amritsar,2005,116228.0,1-5,Girls,False
+Tarn Taran,2005,,1-5,Girls,True
+Kapurthala,2005,24781.0,1-5,Girls,False
+Jalandhar,2005,60254.0,1-5,Girls,False
+SBS Nagar,2005,16805.0,1-5,Girls,True
+Hoshiarpur,2005,41350.0,1-5,Girls,False
+Rupnagar,2005,36829.0,1-5,Girls,False
+SAS Nagar,2005,,1-5,Girls,True
+Ludhiana,2005,83083.0,1-5,Girls,False
+Ferozepur,2005,76508.0,1-5,Girls,False
+Fazilka,2005,,1-5,Girls,True
+Faridkot,2005,21778.0,1-5,Girls,False
+Sri Muktsar Sahib,2005,35005.0,1-5,Girls,True
+Moga,2005,36474.0,1-5,Girls,True
+Bathinda,2005,55505.0,1-5,Girls,False
+Mansa,2005,29891.0,1-5,Girls,True
+Sangrur,2005,65777.0,1-5,Girls,False
+Barnala,2005,,1-5,Girls,True
+Patiala,2005,56640.0,1-5,Girls,False
+Fatehgarh Sahib,2005,14556.0,1-5,Girls,True
+Malerkotla,2005,,1-5,Girls,True
+Gurdaspur,2004,114231.0,1-5,Girls,False
+Pathankot,2004,,1-5,Girls,True
+Amritsar,2004,115903.0,1-5,Girls,False
+Tarn Taran,2004,,1-5,Girls,True
+Kapurthala,2004,25063.0,1-5,Girls,False
+Jalandhar,2004,59668.0,1-5,Girls,False
+SBS Nagar,2004,16805.0,1-5,Girls,True
+Hoshiarpur,2004,44472.0,1-5,Girls,False
+Rupnagar,2004,37226.0,1-5,Girls,False
+SAS Nagar,2004,,1-5,Girls,True
+Ludhiana,2004,83375.0,1-5,Girls,False
+Ferozepur,2004,68333.0,1-5,Girls,False
+Fazilka,2004,,1-5,Girls,True
+Faridkot,2004,23021.0,1-5,Girls,False
+Sri Muktsar Sahib,2004,34852.0,1-5,Girls,True
+Moga,2004,36474.0,1-5,Girls,True
+Bathinda,2004,55040.0,1-5,Girls,False
+Mansa,2004,28954.0,1-5,Girls,True
+Sangrur,2004,67078.0,1-5,Girls,False
+Barnala,2004,,1-5,Girls,True
+Patiala,2004,62992.0,1-5,Girls,False
+Fatehgarh Sahib,2004,17842.0,1-5,Girls,True
+Malerkotla,2004,,1-5,Girls,True
+Gurdaspur,2003,115129.0,1-5,Girls,False
+Pathankot,2003,,1-5,Girls,True
+Amritsar,2003,116032.0,1-5,Girls,False
+Tarn Taran,2003,,1-5,Girls,True
+Kapurthala,2003,27181.0,1-5,Girls,False
+Jalandhar,2003,62372.0,1-5,Girls,False
+SBS Nagar,2003,19859.0,1-5,Girls,True
+Hoshiarpur,2003,53974.0,1-5,Girls,False
+Rupnagar,2003,40959.0,1-5,Girls,False
+SAS Nagar,2003,,1-5,Girls,True
+Ludhiana,2003,90772.0,1-5,Girls,False
+Ferozepur,2003,70815.0,1-5,Girls,False
+Fazilka,2003,,1-5,Girls,True
+Faridkot,2003,25727.0,1-5,Girls,False
+Sri Muktsar Sahib,2003,34845.0,1-5,Girls,True
+Moga,2003,40688.0,1-5,Girls,True
+Bathinda,2003,53382.0,1-5,Girls,False
+Mansa,2003,29875.0,1-5,Girls,True
+Sangrur,2003,66900.0,1-5,Girls,False
+Barnala,2003,,1-5,Girls,True
+Patiala,2003,63291.0,1-5,Girls,False
+Fatehgarh Sahib,2003,16661.0,1-5,Girls,True
+Malerkotla,2003,,1-5,Girls,True
+Gurdaspur,2002,75645.0,1-5,Girls,False
+Pathankot,2002,,1-5,Girls,True
+Amritsar,2002,117195.0,1-5,Girls,False
+Tarn Taran,2002,,1-5,Girls,True
+Kapurthala,2002,26132.0,1-5,Girls,False
+Jalandhar,2002,69662.0,1-5,Girls,False
+SBS Nagar,2002,20364.0,1-5,Girls,True
+Hoshiarpur,2002,55789.0,1-5,Girls,False
+Rupnagar,2002,37693.0,1-5,Girls,False
+SAS Nagar,2002,,1-5,Girls,True
+Ludhiana,2002,89235.0,1-5,Girls,False
+Ferozepur,2002,68037.0,1-5,Girls,False
+Fazilka,2002,,1-5,Girls,True
+Faridkot,2002,24828.0,1-5,Girls,False
+Sri Muktsar Sahib,2002,35533.0,1-5,Girls,True
+Moga,2002,40932.0,1-5,Girls,True
+Bathinda,2002,50003.0,1-5,Girls,False
+Mansa,2002,28569.0,1-5,Girls,True
+Sangrur,2002,66387.0,1-5,Girls,False
+Barnala,2002,,1-5,Girls,True
+Patiala,2002,64853.0,1-5,Girls,False
+Fatehgarh Sahib,2002,19101.0,1-5,Girls,True
+Malerkotla,2002,,1-5,Girls,True
+Gurdaspur,2001,113379.0,1-5,Girls,False
+Pathankot,2001,,1-5,Girls,True
+Amritsar,2001,121593.0,1-5,Girls,False
+Tarn Taran,2001,,1-5,Girls,True
+Kapurthala,2001,26958.0,1-5,Girls,False
+Jalandhar,2001,73988.0,1-5,Girls,False
+SBS Nagar,2001,21387.0,1-5,Girls,True
+Hoshiarpur,2001,58836.0,1-5,Girls,False
+Rupnagar,2001,41185.0,1-5,Girls,False
+SAS Nagar,2001,,1-5,Girls,True
+Ludhiana,2001,91761.0,1-5,Girls,False
+Ferozepur,2001,70299.0,1-5,Girls,False
+Fazilka,2001,,1-5,Girls,True
+Faridkot,2001,24913.0,1-5,Girls,False
+Sri Muktsar Sahib,2001,34804.0,1-5,Girls,True
+Moga,2001,40688.0,1-5,Girls,True
+Bathinda,2001,57583.0,1-5,Girls,False
+Mansa,2001,38573.0,1-5,Girls,True
+Sangrur,2001,71604.0,1-5,Girls,False
+Barnala,2001,,1-5,Girls,True
+Patiala,2001,67109.0,1-5,Girls,False
+Fatehgarh Sahib,2001,19566.0,1-5,Girls,True
+Malerkotla,2001,,1-5,Girls,True
+Gurdaspur,2000,111795.0,1-5,Girls,False
+Pathankot,2000,,1-5,Girls,True
+Amritsar,2000,123410.0,1-5,Girls,False
+Tarn Taran,2000,,1-5,Girls,True
+Kapurthala,2000,27774.0,1-5,Girls,False
+Jalandhar,2000,72984.0,1-5,Girls,False
+SBS Nagar,2000,22156.0,1-5,Girls,True
+Hoshiarpur,2000,60984.0,1-5,Girls,False
+Rupnagar,2000,41426.0,1-5,Girls,False
+SAS Nagar,2000,,1-5,Girls,True
+Ludhiana,2000,95670.0,1-5,Girls,False
+Ferozepur,2000,70991.0,1-5,Girls,False
+Fazilka,2000,,1-5,Girls,True
+Faridkot,2000,25226.0,1-5,Girls,False
+Sri Muktsar Sahib,2000,36276.0,1-5,Girls,True
+Moga,2000,48845.0,1-5,Girls,True
+Bathinda,2000,58677.0,1-5,Girls,False
+Mansa,2000,32975.0,1-5,Girls,True
+Sangrur,2000,72569.0,1-5,Girls,False
+Barnala,2000,,1-5,Girls,True
+Patiala,2000,69040.0,1-5,Girls,False
+Fatehgarh Sahib,2000,20942.0,1-5,Girls,True
+Malerkotla,2000,,1-5,Girls,True
+Gurdaspur,1999,108587.0,1-5,Girls,False
+Pathankot,1999,,1-5,Girls,True
+Amritsar,1999,129754.0,1-5,Girls,False
+Tarn Taran,1999,,1-5,Girls,True
+Kapurthala,1999,28302.0,1-5,Girls,False
+Jalandhar,1999,74392.0,1-5,Girls,False
+SBS Nagar,1999,23494.0,1-5,Girls,True
+Hoshiarpur,1999,62659.0,1-5,Girls,False
+Rupnagar,1999,42934.0,1-5,Girls,False
+SAS Nagar,1999,,1-5,Girls,True
+Ludhiana,1999,97884.0,1-5,Girls,False
+Ferozepur,1999,83002.0,1-5,Girls,False
+Fazilka,1999,,1-5,Girls,True
+Faridkot,1999,26286.0,1-5,Girls,False
+Sri Muktsar Sahib,1999,36601.0,1-5,Girls,True
+Moga,1999,41077.0,1-5,Girls,True
+Bathinda,1999,55272.0,1-5,Girls,False
+Mansa,1999,32321.0,1-5,Girls,True
+Sangrur,1999,74948.0,1-5,Girls,False
+Barnala,1999,,1-5,Girls,True
+Patiala,1999,72620.0,1-5,Girls,False
+Fatehgarh Sahib,1999,22202.0,1-5,Girls,True
+Malerkotla,1999,,1-5,Girls,True
+Gurdaspur,1998,109400.0,1-5,Girls,False
+Pathankot,1998,,1-5,Girls,True
+Amritsar,1998,143246.0,1-5,Girls,False
+Tarn Taran,1998,,1-5,Girls,True
+Kapurthala,1998,29146.0,1-5,Girls,False
+Jalandhar,1998,73863.0,1-5,Girls,False
+SBS Nagar,1998,24413.0,1-5,Girls,True
+Hoshiarpur,1998,65181.0,1-5,Girls,False
+Rupnagar,1998,43906.0,1-5,Girls,False
+SAS Nagar,1998,,1-5,Girls,True
+Ludhiana,1998,94560.0,1-5,Girls,False
+Ferozepur,1998,83944.0,1-5,Girls,False
+Fazilka,1998,,1-5,Girls,True
+Faridkot,1998,27007.0,1-5,Girls,False
+Sri Muktsar Sahib,1998,35715.0,1-5,Girls,True
+Moga,1998,40329.0,1-5,Girls,True
+Bathinda,1998,56471.0,1-5,Girls,False
+Mansa,1998,32956.0,1-5,Girls,True
+Sangrur,1998,77269.0,1-5,Girls,False
+Barnala,1998,,1-5,Girls,True
+Patiala,1998,74398.0,1-5,Girls,False
+Fatehgarh Sahib,1998,22570.0,1-5,Girls,True
+Malerkotla,1998,,1-5,Girls,True
+Gurdaspur,1997,108932.0,1-5,Girls,False
+Pathankot,1997,,1-5,Girls,True
+Amritsar,1997,134396.0,1-5,Girls,False
+Tarn Taran,1997,,1-5,Girls,True
+Kapurthala,1997,28888.0,1-5,Girls,False
+Jalandhar,1997,74961.0,1-5,Girls,False
+SBS Nagar,1997,23405.0,1-5,Girls,True
+Hoshiarpur,1997,63384.0,1-5,Girls,False
+Rupnagar,1997,43315.0,1-5,Girls,False
+SAS Nagar,1997,,1-5,Girls,True
+Ludhiana,1997,96826.0,1-5,Girls,False
+Ferozepur,1997,80736.0,1-5,Girls,False
+Fazilka,1997,,1-5,Girls,True
+Faridkot,1997,25866.0,1-5,Girls,False
+Sri Muktsar Sahib,1997,33613.0,1-5,Girls,True
+Moga,1997,40006.0,1-5,Girls,True
+Bathinda,1997,56619.0,1-5,Girls,False
+Mansa,1997,30301.0,1-5,Girls,True
+Sangrur,1997,74551.0,1-5,Girls,False
+Barnala,1997,,1-5,Girls,True
+Patiala,1997,73932.0,1-5,Girls,False
+Fatehgarh Sahib,1997,22716.0,1-5,Girls,True
+Malerkotla,1997,,1-5,Girls,True
+Gurdaspur,1996,106359.0,1-5,Girls,False
+Pathankot,1996,,1-5,Girls,True
+Amritsar,1996,133079.0,1-5,Girls,False
+Tarn Taran,1996,,1-5,Girls,True
+Kapurthala,1996,27987.0,1-5,Girls,False
+Jalandhar,1996,71676.0,1-5,Girls,False
+SBS Nagar,1996,23151.0,1-5,Girls,True
+Hoshiarpur,1996,59092.0,1-5,Girls,False
+Rupnagar,1996,43067.0,1-5,Girls,False
+SAS Nagar,1996,,1-5,Girls,True
+Ludhiana,1996,100501.0,1-5,Girls,False
+Ferozepur,1996,79133.0,1-5,Girls,False
+Fazilka,1996,,1-5,Girls,True
+Faridkot,1996,25841.0,1-5,Girls,False
+Sri Muktsar Sahib,1996,31244.0,1-5,Girls,True
+Moga,1996,40103.0,1-5,Girls,True
+Bathinda,1996,54696.0,1-5,Girls,False
+Mansa,1996,29293.0,1-5,Girls,True
+Sangrur,1996,75208.0,1-5,Girls,False
+Barnala,1996,,1-5,Girls,True
+Patiala,1996,73008.0,1-5,Girls,False
+Fatehgarh Sahib,1996,22432.0,1-5,Girls,True
+Malerkotla,1996,,1-5,Girls,True
+Gurdaspur,1995,102708.0,1-5,Girls,False
+Pathankot,1995,,1-5,Girls,True
+Amritsar,1995,126389.0,1-5,Girls,False
+Tarn Taran,1995,,1-5,Girls,True
+Kapurthala,1995,27540.0,1-5,Girls,False
+Jalandhar,1995,91145.0,1-5,Girls,False
+SBS Nagar,1995,,1-5,Girls,True
+Hoshiarpur,1995,68901.0,1-5,Girls,False
+Rupnagar,1995,43623.0,1-5,Girls,False
+SAS Nagar,1995,,1-5,Girls,True
+Ludhiana,1995,97739.0,1-5,Girls,False
+Ferozepur,1995,77968.0,1-5,Girls,False
+Fazilka,1995,,1-5,Girls,True
+Faridkot,1995,95076.0,1-5,Girls,False
+Sri Muktsar Sahib,1995,,1-5,Girls,True
+Moga,1995,,1-5,Girls,True
+Bathinda,1995,54187.0,1-5,Girls,False
+Mansa,1995,29842.0,1-5,Girls,True
+Sangrur,1995,74300.0,1-5,Girls,False
+Barnala,1995,,1-5,Girls,True
+Patiala,1995,71060.0,1-5,Girls,False
+Fatehgarh Sahib,1995,21790.0,1-5,Girls,True
+Malerkotla,1995,,1-5,Girls,True
+Gurdaspur,1994,100144.0,1-5,Girls,False
+Pathankot,1994,,1-5,Girls,True
+Amritsar,1994,131305.0,1-5,Girls,False
+Tarn Taran,1994,,1-5,Girls,True
+Kapurthala,1994,28433.0,1-5,Girls,False
+Jalandhar,1994,95883.0,1-5,Girls,False
+SBS Nagar,1994,,1-5,Girls,True
+Hoshiarpur,1994,69607.0,1-5,Girls,False
+Rupnagar,1994,41336.0,1-5,Girls,False
+SAS Nagar,1994,,1-5,Girls,True
+Ludhiana,1994,95480.0,1-5,Girls,False
+Ferozepur,1994,76430.0,1-5,Girls,False
+Fazilka,1994,,1-5,Girls,True
+Faridkot,1994,92285.0,1-5,Girls,False
+Sri Muktsar Sahib,1994,,1-5,Girls,True
+Moga,1994,,1-5,Girls,True
+Bathinda,1994,54003.0,1-5,Girls,False
+Mansa,1994,25606.0,1-5,Girls,True
+Sangrur,1994,72711.0,1-5,Girls,False
+Barnala,1994,,1-5,Girls,True
+Patiala,1994,69848.0,1-5,Girls,False
+Fatehgarh Sahib,1994,21702.0,1-5,Girls,True
+Malerkotla,1994,,1-5,Girls,True
+Gurdaspur,1993,94943.0,1-5,Girls,False
+Pathankot,1993,,1-5,Girls,True
+Amritsar,1993,124948.0,1-5,Girls,False
+Tarn Taran,1993,,1-5,Girls,True
+Kapurthala,1993,28198.0,1-5,Girls,False
+Jalandhar,1993,95066.0,1-5,Girls,False
+SBS Nagar,1993,,1-5,Girls,True
+Hoshiarpur,1993,69799.0,1-5,Girls,False
+Rupnagar,1993,44532.0,1-5,Girls,False
+SAS Nagar,1993,,1-5,Girls,True
+Ludhiana,1993,93131.0,1-5,Girls,False
+Ferozepur,1993,72695.0,1-5,Girls,False
+Fazilka,1993,,1-5,Girls,True
+Faridkot,1993,90800.0,1-5,Girls,False
+Sri Muktsar Sahib,1993,,1-5,Girls,True
+Moga,1993,,1-5,Girls,True
+Bathinda,1993,55162.0,1-5,Girls,False
+Mansa,1993,23757.0,1-5,Girls,True
+Sangrur,1993,72992.0,1-5,Girls,False
+Barnala,1993,,1-5,Girls,True
+Patiala,1993,69407.0,1-5,Girls,False
+Fatehgarh Sahib,1993,21257.0,1-5,Girls,True
+Malerkotla,1993,,1-5,Girls,True
+Gurdaspur,1992,90306.0,1-5,Girls,False
+Pathankot,1992,,1-5,Girls,True
+Amritsar,1992,125434.0,1-5,Girls,False
+Tarn Taran,1992,,1-5,Girls,True
+Kapurthala,1992,30504.0,1-5,Girls,False
+Jalandhar,1992,94068.0,1-5,Girls,False
+SBS Nagar,1992,,1-5,Girls,True
+Hoshiarpur,1992,71184.0,1-5,Girls,False
+Rupnagar,1992,42471.0,1-5,Girls,False
+SAS Nagar,1992,,1-5,Girls,True
+Ludhiana,1992,91374.0,1-5,Girls,False
+Ferozepur,1992,69513.0,1-5,Girls,False
+Fazilka,1992,,1-5,Girls,True
+Faridkot,1992,87195.0,1-5,Girls,False
+Sri Muktsar Sahib,1992,,1-5,Girls,True
+Moga,1992,,1-5,Girls,True
+Bathinda,1992,59739.0,1-5,Girls,False
+Mansa,1992,23465.0,1-5,Girls,True
+Sangrur,1992,71735.0,1-5,Girls,False
+Barnala,1992,,1-5,Girls,True
+Patiala,1992,68378.0,1-5,Girls,False
+Fatehgarh Sahib,1992,22265.0,1-5,Girls,True
+Malerkotla,1992,,1-5,Girls,True
+Gurdaspur,1991,90760.0,1-5,Girls,False
+Pathankot,1991,,1-5,Girls,True
+Amritsar,1991,127839.0,1-5,Girls,False
+Tarn Taran,1991,,1-5,Girls,True
+Kapurthala,1991,31039.0,1-5,Girls,False
+Jalandhar,1991,97907.0,1-5,Girls,False
+SBS Nagar,1991,,1-5,Girls,True
+Hoshiarpur,1991,73410.0,1-5,Girls,False
+Rupnagar,1991,42742.0,1-5,Girls,False
+SAS Nagar,1991,,1-5,Girls,True
+Ludhiana,1991,96323.0,1-5,Girls,False
+Ferozepur,1991,68725.0,1-5,Girls,False
+Fazilka,1991,,1-5,Girls,True
+Faridkot,1991,94763.0,1-5,Girls,False
+Sri Muktsar Sahib,1991,,1-5,Girls,True
+Moga,1991,,1-5,Girls,True
+Bathinda,1991,72537.0,1-5,Girls,False
+Mansa,1991,,1-5,Girls,True
+Sangrur,1991,72966.0,1-5,Girls,False
+Barnala,1991,,1-5,Girls,True
+Patiala,1991,88840.0,1-5,Girls,False
+Fatehgarh Sahib,1991,,1-5,Girls,True
+Malerkotla,1991,,1-5,Girls,True
+Gurdaspur,1990,84834.0,1-5,Girls,False
+Pathankot,1990,,1-5,Girls,True
+Amritsar,1990,132810.0,1-5,Girls,False
+Tarn Taran,1990,,1-5,Girls,True
+Kapurthala,1990,29227.0,1-5,Girls,False
+Jalandhar,1990,98136.0,1-5,Girls,False
+SBS Nagar,1990,,1-5,Girls,True
+Hoshiarpur,1990,74438.0,1-5,Girls,False
+Rupnagar,1990,43232.0,1-5,Girls,False
+SAS Nagar,1990,,1-5,Girls,True
+Ludhiana,1990,97346.0,1-5,Girls,False
+Ferozepur,1990,72711.0,1-5,Girls,False
+Fazilka,1990,,1-5,Girls,True
+Faridkot,1990,91648.0,1-5,Girls,False
+Sri Muktsar Sahib,1990,,1-5,Girls,True
+Moga,1990,,1-5,Girls,True
+Bathinda,1990,71941.0,1-5,Girls,False
+Mansa,1990,,1-5,Girls,True
+Sangrur,1990,69599.0,1-5,Girls,False
+Barnala,1990,,1-5,Girls,True
+Patiala,1990,88952.0,1-5,Girls,False
+Fatehgarh Sahib,1990,,1-5,Girls,True
+Malerkotla,1990,,1-5,Girls,True
+Gurdaspur,1989,82678.0,1-5,Girls,False
+Pathankot,1989,,1-5,Girls,True
+Amritsar,1989,130406.0,1-5,Girls,False
+Tarn Taran,1989,,1-5,Girls,True
+Kapurthala,1989,28203.0,1-5,Girls,False
+Jalandhar,1989,94303.0,1-5,Girls,False
+SBS Nagar,1989,,1-5,Girls,True
+Hoshiarpur,1989,75131.0,1-5,Girls,False
+Rupnagar,1989,43067.0,1-5,Girls,False
+SAS Nagar,1989,,1-5,Girls,True
+Ludhiana,1989,96676.0,1-5,Girls,False
+Ferozepur,1989,73054.0,1-5,Girls,False
+Fazilka,1989,,1-5,Girls,True
+Faridkot,1989,96717.0,1-5,Girls,False
+Sri Muktsar Sahib,1989,,1-5,Girls,True
+Moga,1989,,1-5,Girls,True
+Bathinda,1989,70835.0,1-5,Girls,False
+Mansa,1989,,1-5,Girls,True
+Sangrur,1989,67430.0,1-5,Girls,False
+Barnala,1989,,1-5,Girls,True
+Patiala,1989,88526.0,1-5,Girls,False
+Fatehgarh Sahib,1989,,1-5,Girls,True
+Malerkotla,1989,,1-5,Girls,True
+Gurdaspur,2022,19897.0,6-8,Boys,False
+Pathankot,2022,7326.0,6-8,Boys,True
+Amritsar,2022,28435.0,6-8,Boys,False
+Tarn Taran,2022,16972.0,6-8,Boys,True
+Kapurthala,2022,8818.0,6-8,Boys,False
+Jalandhar,2022,21586.0,6-8,Boys,False
+SBS Nagar,2022,7165.0,6-8,Boys,True
+Hoshiarpur,2022,19550.0,6-8,Boys,False
+Rupnagar,2022,8364.0,6-8,Boys,False
+SAS Nagar,2022,13340.0,6-8,Boys,True
+Ludhiana,2022,36578.0,6-8,Boys,False
+Ferozepur,2022,14241.0,6-8,Boys,False
+Fazilka,2022,20767.0,6-8,Boys,True
+Faridkot,2022,8427.0,6-8,Boys,False
+Sri Muktsar Sahib,2022,14292.0,6-8,Boys,True
+Moga,2022,13227.0,6-8,Boys,True
+Bathinda,2022,19155.0,6-8,Boys,False
+Mansa,2022,12013.0,6-8,Boys,True
+Sangrur,2022,15599.0,6-8,Boys,False
+Barnala,2022,7442.0,6-8,Boys,True
+Patiala,2022,24633.0,6-8,Boys,False
+Fatehgarh Sahib,2022,6894.0,6-8,Boys,True
+Malerkotla,2022,4304.0,6-8,Boys,True
+Gurdaspur,2021,19112.0,6-8,Boys,False
+Pathankot,2021,6704.0,6-8,Boys,True
+Amritsar,2021,26823.0,6-8,Boys,False
+Tarn Taran,2021,15589.0,6-8,Boys,True
+Kapurthala,2021,8415.0,6-8,Boys,False
+Jalandhar,2021,20131.0,6-8,Boys,False
+SBS Nagar,2021,6836.0,6-8,Boys,True
+Hoshiarpur,2021,18301.0,6-8,Boys,False
+Rupnagar,2021,7968.0,6-8,Boys,False
+SAS Nagar,2021,12491.0,6-8,Boys,True
+Ludhiana,2021,32971.0,6-8,Boys,False
+Ferozepur,2021,13434.0,6-8,Boys,False
+Fazilka,2021,19326.0,6-8,Boys,True
+Faridkot,2021,8227.0,6-8,Boys,False
+Sri Muktsar Sahib,2021,13610.0,6-8,Boys,True
+Moga,2021,12429.0,6-8,Boys,True
+Bathinda,2021,17511.0,6-8,Boys,False
+Mansa,2021,11591.0,6-8,Boys,True
+Sangrur,2021,19475.0,6-8,Boys,False
+Barnala,2021,6940.0,6-8,Boys,True
+Patiala,2021,22708.0,6-8,Boys,False
+Fatehgarh Sahib,2021,6643.0,6-8,Boys,True
+Malerkotla,2021,,6-8,Boys,True
+Gurdaspur,2020,17221.0,6-8,Boys,False
+Pathankot,2020,6045.0,6-8,Boys,True
+Amritsar,2020,24539.0,6-8,Boys,False
+Tarn Taran,2020,13889.0,6-8,Boys,True
+Kapurthala,2020,7796.0,6-8,Boys,False
+Jalandhar,2020,18679.0,6-8,Boys,False
+SBS Nagar,2020,6241.0,6-8,Boys,True
+Hoshiarpur,2020,16761.0,6-8,Boys,False
+Rupnagar,2020,7220.0,6-8,Boys,False
+SAS Nagar,2020,10495.0,6-8,Boys,True
+Ludhiana,2020,29854.0,6-8,Boys,False
+Ferozepur,2020,12077.0,6-8,Boys,False
+Fazilka,2020,17234.0,6-8,Boys,True
+Faridkot,2020,7728.0,6-8,Boys,False
+Sri Muktsar Sahib,2020,12674.0,6-8,Boys,True
+Moga,2020,11717.0,6-8,Boys,True
+Bathinda,2020,15935.0,6-8,Boys,False
+Mansa,2020,11141.0,6-8,Boys,True
+Sangrur,2020,17807.0,6-8,Boys,False
+Barnala,2020,6714.0,6-8,Boys,True
+Patiala,2020,21129.0,6-8,Boys,False
+Fatehgarh Sahib,2020,6078.0,6-8,Boys,True
+Malerkotla,2020,,6-8,Boys,True
+Gurdaspur,2019,16844.0,6-8,Boys,False
+Pathankot,2019,5823.0,6-8,Boys,True
+Amritsar,2019,24453.0,6-8,Boys,False
+Tarn Taran,2019,13728.0,6-8,Boys,True
+Kapurthala,2019,7667.0,6-8,Boys,False
+Jalandhar,2019,18361.0,6-8,Boys,False
+SBS Nagar,2019,6205.0,6-8,Boys,True
+Hoshiarpur,2019,16601.0,6-8,Boys,False
+Rupnagar,2019,7112.0,6-8,Boys,False
+SAS Nagar,2019,9964.0,6-8,Boys,True
+Ludhiana,2019,29650.0,6-8,Boys,False
+Ferozepur,2019,12054.0,6-8,Boys,False
+Fazilka,2019,17180.0,6-8,Boys,True
+Faridkot,2019,7773.0,6-8,Boys,False
+Sri Muktsar Sahib,2019,12591.0,6-8,Boys,True
+Moga,2019,11563.0,6-8,Boys,True
+Bathinda,2019,15873.0,6-8,Boys,False
+Mansa,2019,10729.0,6-8,Boys,True
+Sangrur,2019,17294.0,6-8,Boys,False
+Barnala,2019,6519.0,6-8,Boys,True
+Patiala,2019,20966.0,6-8,Boys,False
+Fatehgarh Sahib,2019,5844.0,6-8,Boys,True
+Malerkotla,2019,,6-8,Boys,True
+Gurdaspur,2018,19101.0,6-8,Boys,False
+Pathankot,2018,6851.0,6-8,Boys,True
+Amritsar,2018,25799.0,6-8,Boys,False
+Tarn Taran,2018,15505.0,6-8,Boys,True
+Kapurthala,2018,8987.0,6-8,Boys,False
+Jalandhar,2018,20726.0,6-8,Boys,False
+SBS Nagar,2018,7264.0,6-8,Boys,True
+Hoshiarpur,2018,18812.0,6-8,Boys,False
+Rupnagar,2018,8215.0,6-8,Boys,False
+SAS Nagar,2018,9964.0,6-8,Boys,True
+Ludhiana,2018,31604.0,6-8,Boys,False
+Ferozepur,2018,13872.0,6-8,Boys,False
+Fazilka,2018,17999.0,6-8,Boys,True
+Faridkot,2018,9163.0,6-8,Boys,False
+Sri Muktsar Sahib,2018,14069.0,6-8,Boys,True
+Moga,2018,14654.0,6-8,Boys,True
+Bathinda,2018,18782.0,6-8,Boys,False
+Mansa,2018,12777.0,6-8,Boys,True
+Sangrur,2018,20543.0,6-8,Boys,False
+Barnala,2018,8522.0,6-8,Boys,True
+Patiala,2018,22880.0,6-8,Boys,False
+Fatehgarh Sahib,2018,7175.0,6-8,Boys,True
+Malerkotla,2018,,6-8,Boys,True
+Gurdaspur,2017,19101.0,6-8,Boys,False
+Pathankot,2017,6851.0,6-8,Boys,True
+Amritsar,2017,25799.0,6-8,Boys,False
+Tarn Taran,2017,15505.0,6-8,Boys,True
+Kapurthala,2017,8987.0,6-8,Boys,False
+Jalandhar,2017,20726.0,6-8,Boys,False
+SBS Nagar,2017,7264.0,6-8,Boys,True
+Hoshiarpur,2017,18812.0,6-8,Boys,False
+Rupnagar,2017,4215.0,6-8,Boys,False
+SAS Nagar,2017,9964.0,6-8,Boys,True
+Ludhiana,2017,31604.0,6-8,Boys,False
+Ferozepur,2017,13872.0,6-8,Boys,False
+Fazilka,2017,17999.0,6-8,Boys,True
+Faridkot,2017,9163.0,6-8,Boys,False
+Sri Muktsar Sahib,2017,14069.0,6-8,Boys,True
+Moga,2017,14654.0,6-8,Boys,True
+Bathinda,2017,18782.0,6-8,Boys,False
+Mansa,2017,12777.0,6-8,Boys,True
+Sangrur,2017,20543.0,6-8,Boys,False
+Barnala,2017,8522.0,6-8,Boys,True
+Patiala,2017,22880.0,6-8,Boys,False
+Fatehgarh Sahib,2017,7175.0,6-8,Boys,True
+Malerkotla,2017,,6-8,Boys,True
+Gurdaspur,2016,20358.0,6-8,Boys,False
+Pathankot,2016,7380.0,6-8,Boys,True
+Amritsar,2016,27415.0,6-8,Boys,False
+Tarn Taran,2016,16735.0,6-8,Boys,True
+Kapurthala,2016,9858.0,6-8,Boys,False
+Jalandhar,2016,22419.0,6-8,Boys,False
+SBS Nagar,2016,7791.0,6-8,Boys,True
+Hoshiarpur,2016,20394.0,6-8,Boys,False
+Rupnagar,2016,8952.0,6-8,Boys,False
+SAS Nagar,2016,10613.0,6-8,Boys,True
+Ludhiana,2016,33360.0,6-8,Boys,False
+Ferozepur,2016,14632.0,6-8,Boys,False
+Fazilka,2016,18572.0,6-8,Boys,True
+Faridkot,2016,9936.0,6-8,Boys,False
+Sri Muktsar Sahib,2016,15242.0,6-8,Boys,True
+Moga,2016,16636.0,6-8,Boys,True
+Bathinda,2016,20661.0,6-8,Boys,False
+Mansa,2016,14017.0,6-8,Boys,True
+Sangrur,2016,22078.0,6-8,Boys,False
+Barnala,2016,9497.0,6-8,Boys,True
+Patiala,2016,24460.0,6-8,Boys,False
+Fatehgarh Sahib,2016,7790.0,6-8,Boys,True
+Malerkotla,2016,,6-8,Boys,True
+Gurdaspur,2015,21274.0,6-8,Boys,False
+Pathankot,2015,7822.0,6-8,Boys,True
+Amritsar,2015,28673.0,6-8,Boys,False
+Tarn Taran,2015,17266.0,6-8,Boys,True
+Kapurthala,2015,10717.0,6-8,Boys,False
+Jalandhar,2015,23863.0,6-8,Boys,False
+SBS Nagar,2015,8761.0,6-8,Boys,True
+Hoshiarpur,2015,21827.0,6-8,Boys,False
+Rupnagar,2015,9659.0,6-8,Boys,False
+SAS Nagar,2015,11168.0,6-8,Boys,True
+Ludhiana,2015,35001.0,6-8,Boys,False
+Ferozepur,2015,15348.0,6-8,Boys,False
+Fazilka,2015,19102.0,6-8,Boys,True
+Faridkot,2015,10809.0,6-8,Boys,False
+Sri Muktsar Sahib,2015,16138.0,6-8,Boys,True
+Moga,2015,17789.0,6-8,Boys,True
+Bathinda,2015,22131.0,6-8,Boys,False
+Mansa,2015,15361.0,6-8,Boys,True
+Sangrur,2015,24098.0,6-8,Boys,False
+Barnala,2015,10335.0,6-8,Boys,True
+Patiala,2015,25967.0,6-8,Boys,False
+Fatehgarh Sahib,2015,8247.0,6-8,Boys,True
+Malerkotla,2015,,6-8,Boys,True
+Gurdaspur,2014,20848.0,6-8,Boys,False
+Pathankot,2014,9627.0,6-8,Boys,True
+Amritsar,2014,37359.0,6-8,Boys,False
+Tarn Taran,2014,15294.0,6-8,Boys,True
+Kapurthala,2014,8558.0,6-8,Boys,False
+Jalandhar,2014,21477.0,6-8,Boys,False
+SBS Nagar,2014,5635.0,6-8,Boys,True
+Hoshiarpur,2014,15958.0,6-8,Boys,False
+Rupnagar,2014,10024.0,6-8,Boys,False
+SAS Nagar,2014,12924.0,6-8,Boys,True
+Ludhiana,2014,37542.0,6-8,Boys,False
+Ferozepur,2014,9975.0,6-8,Boys,False
+Fazilka,2014,15902.0,6-8,Boys,True
+Faridkot,2014,7684.0,6-8,Boys,False
+Sri Muktsar Sahib,2014,7657.0,6-8,Boys,True
+Moga,2014,8172.0,6-8,Boys,True
+Bathinda,2014,12596.0,6-8,Boys,False
+Mansa,2014,8502.0,6-8,Boys,True
+Sangrur,2014,14833.0,6-8,Boys,False
+Barnala,2014,3927.0,6-8,Boys,True
+Patiala,2014,20313.0,6-8,Boys,False
+Fatehgarh Sahib,2014,6551.0,6-8,Boys,True
+Malerkotla,2014,,6-8,Boys,True
+Gurdaspur,2013,47963.0,6-8,Boys,False
+Pathankot,2013,20045.0,6-8,Boys,True
+Amritsar,2013,70231.0,6-8,Boys,False
+Tarn Taran,2013,33991.0,6-8,Boys,True
+Kapurthala,2013,25519.0,6-8,Boys,False
+Jalandhar,2013,60526.0,6-8,Boys,False
+SBS Nagar,2013,17748.0,6-8,Boys,True
+Hoshiarpur,2013,45455.0,6-8,Boys,False
+Rupnagar,2013,19407.0,6-8,Boys,False
+SAS Nagar,2013,25199.0,6-8,Boys,True
+Ludhiana,2013,101391.0,6-8,Boys,False
+Ferozepur,2013,28371.0,6-8,Boys,False
+Fazilka,2013,31203.0,6-8,Boys,True
+Faridkot,2013,18368.0,6-8,Boys,False
+Sri Muktsar Sahib,2013,27100.0,6-8,Boys,True
+Moga,2013,29044.0,6-8,Boys,True
+Bathinda,2013,37824.0,6-8,Boys,False
+Mansa,2013,23052.0,6-8,Boys,True
+Sangrur,2013,47147.0,6-8,Boys,False
+Barnala,2013,18326.0,6-8,Boys,True
+Patiala,2013,57528.0,6-8,Boys,False
+Fatehgarh Sahib,2013,16515.0,6-8,Boys,True
+Malerkotla,2013,,6-8,Boys,True
+Gurdaspur,2012,7765.0,6-8,Boys,False
+Pathankot,2012,2916.0,6-8,Boys,True
+Amritsar,2012,9157.0,6-8,Boys,False
+Tarn Taran,2012,4443.0,6-8,Boys,True
+Kapurthala,2012,4400.0,6-8,Boys,False
+Jalandhar,2012,7419.0,6-8,Boys,False
+SBS Nagar,2012,3428.0,6-8,Boys,True
+Hoshiarpur,2012,7625.0,6-8,Boys,False
+Rupnagar,2012,5345.0,6-8,Boys,False
+SAS Nagar,2012,4063.0,6-8,Boys,True
+Ludhiana,2012,8724.0,6-8,Boys,False
+Ferozepur,2012,4792.0,6-8,Boys,False
+Fazilka,2012,5975.0,6-8,Boys,True
+Faridkot,2012,3791.0,6-8,Boys,False
+Sri Muktsar Sahib,2012,3409.0,6-8,Boys,True
+Moga,2012,3404.0,6-8,Boys,True
+Bathinda,2012,4388.0,6-8,Boys,False
+Mansa,2012,3613.0,6-8,Boys,True
+Sangrur,2012,7085.0,6-8,Boys,False
+Barnala,2012,1432.0,6-8,Boys,True
+Patiala,2012,9666.0,6-8,Boys,False
+Fatehgarh Sahib,2012,4427.0,6-8,Boys,True
+Malerkotla,2012,,6-8,Boys,True
+Gurdaspur,2011,47286.0,6-8,Boys,False
+Pathankot,2011,20318.0,6-8,Boys,True
+Amritsar,2011,67715.0,6-8,Boys,False
+Tarn Taran,2011,33807.0,6-8,Boys,True
+Kapurthala,2011,26977.0,6-8,Boys,False
+Jalandhar,2011,62712.0,6-8,Boys,False
+SBS Nagar,2011,18871.0,6-8,Boys,True
+Hoshiarpur,2011,47879.0,6-8,Boys,False
+Rupnagar,2011,20891.0,6-8,Boys,False
+SAS Nagar,2011,24204.0,6-8,Boys,True
+Ludhiana,2011,83794.0,6-8,Boys,False
+Ferozepur,2011,27459.0,6-8,Boys,False
+Fazilka,2011,30944.0,6-8,Boys,True
+Faridkot,2011,17617.0,6-8,Boys,False
+Sri Muktsar Sahib,2011,24491.0,6-8,Boys,True
+Moga,2011,28311.0,6-8,Boys,True
+Bathinda,2011,37971.0,6-8,Boys,False
+Mansa,2011,23364.0,6-8,Boys,True
+Sangrur,2011,48609.0,6-8,Boys,False
+Barnala,2011,68331.0,6-8,Boys,True
+Patiala,2011,57985.0,6-8,Boys,False
+Fatehgarh Sahib,2011,17361.0,6-8,Boys,True
+Malerkotla,2011,,6-8,Boys,True
+Gurdaspur,2010,61160.0,6-8,Boys,False
+Pathankot,2010,,6-8,Boys,True
+Amritsar,2010,52454.0,6-8,Boys,False
+Tarn Taran,2010,24570.0,6-8,Boys,True
+Kapurthala,2010,18199.0,6-8,Boys,False
+Jalandhar,2010,35359.0,6-8,Boys,False
+SBS Nagar,2010,15039.0,6-8,Boys,True
+Hoshiarpur,2010,39862.0,6-8,Boys,False
+Rupnagar,2010,17680.0,6-8,Boys,False
+SAS Nagar,2010,17300.0,6-8,Boys,True
+Ludhiana,2010,71958.0,6-8,Boys,False
+Ferozepur,2010,51227.0,6-8,Boys,False
+Fazilka,2010,,6-8,Boys,True
+Faridkot,2010,16584.0,6-8,Boys,False
+Sri Muktsar Sahib,2010,22058.0,6-8,Boys,True
+Moga,2010,25916.0,6-8,Boys,True
+Bathinda,2010,34137.0,6-8,Boys,False
+Mansa,2010,19801.0,6-8,Boys,True
+Sangrur,2010,38123.0,6-8,Boys,False
+Barnala,2010,14045.0,6-8,Boys,True
+Patiala,2010,46069.0,6-8,Boys,False
+Fatehgarh Sahib,2010,15065.0,6-8,Boys,True
+Malerkotla,2010,,6-8,Boys,True
+Gurdaspur,2009,56080.0,6-8,Boys,False
+Pathankot,2009,,6-8,Boys,True
+Amritsar,2009,47536.0,6-8,Boys,False
+Tarn Taran,2009,26508.0,6-8,Boys,True
+Kapurthala,2009,15765.0,6-8,Boys,False
+Jalandhar,2009,34185.0,6-8,Boys,False
+SBS Nagar,2009,13960.0,6-8,Boys,True
+Hoshiarpur,2009,38337.0,6-8,Boys,False
+Rupnagar,2009,16697.0,6-8,Boys,False
+SAS Nagar,2009,13984.0,6-8,Boys,True
+Ludhiana,2009,69295.0,6-8,Boys,False
+Ferozepur,2009,44883.0,6-8,Boys,False
+Fazilka,2009,,6-8,Boys,True
+Faridkot,2009,15237.0,6-8,Boys,False
+Sri Muktsar Sahib,2009,19066.0,6-8,Boys,True
+Moga,2009,24218.0,6-8,Boys,True
+Bathinda,2009,30971.0,6-8,Boys,False
+Mansa,2009,17941.0,6-8,Boys,True
+Sangrur,2009,34184.0,6-8,Boys,False
+Barnala,2009,10253.0,6-8,Boys,True
+Patiala,2009,37379.0,6-8,Boys,False
+Fatehgarh Sahib,2009,12259.0,6-8,Boys,True
+Malerkotla,2009,,6-8,Boys,True
+Gurdaspur,2008,,6-8,Boys,False
+Pathankot,2008,,6-8,Boys,True
+Amritsar,2008,,6-8,Boys,False
+Tarn Taran,2008,,6-8,Boys,True
+Kapurthala,2008,,6-8,Boys,False
+Jalandhar,2008,,6-8,Boys,False
+SBS Nagar,2008,,6-8,Boys,True
+Hoshiarpur,2008,,6-8,Boys,False
+Rupnagar,2008,,6-8,Boys,False
+SAS Nagar,2008,,6-8,Boys,True
+Ludhiana,2008,,6-8,Boys,False
+Ferozepur,2008,,6-8,Boys,False
+Fazilka,2008,,6-8,Boys,True
+Faridkot,2008,,6-8,Boys,False
+Sri Muktsar Sahib,2008,,6-8,Boys,True
+Moga,2008,,6-8,Boys,True
+Bathinda,2008,,6-8,Boys,False
+Mansa,2008,,6-8,Boys,True
+Sangrur,2008,,6-8,Boys,False
+Barnala,2008,,6-8,Boys,True
+Patiala,2008,,6-8,Boys,False
+Fatehgarh Sahib,2008,,6-8,Boys,True
+Malerkotla,2008,,6-8,Boys,True
+Gurdaspur,2007,48037.0,6-8,Boys,False
+Pathankot,2007,,6-8,Boys,True
+Amritsar,2007,47977.0,6-8,Boys,False
+Tarn Taran,2007,22396.0,6-8,Boys,True
+Kapurthala,2007,18460.0,6-8,Boys,False
+Jalandhar,2007,59413.0,6-8,Boys,False
+SBS Nagar,2007,14431.0,6-8,Boys,True
+Hoshiarpur,2007,40787.0,6-8,Boys,False
+Rupnagar,2007,17416.0,6-8,Boys,False
+SAS Nagar,2007,12090.0,6-8,Boys,True
+Ludhiana,2007,64889.0,6-8,Boys,False
+Ferozepur,2007,40641.0,6-8,Boys,False
+Fazilka,2007,,6-8,Boys,True
+Faridkot,2007,14257.0,6-8,Boys,False
+Sri Muktsar Sahib,2007,16559.0,6-8,Boys,True
+Moga,2007,23144.0,6-8,Boys,True
+Bathinda,2007,32426.0,6-8,Boys,False
+Mansa,2007,17889.0,6-8,Boys,True
+Sangrur,2007,32480.0,6-8,Boys,False
+Barnala,2007,12527.0,6-8,Boys,True
+Patiala,2007,39340.0,6-8,Boys,False
+Fatehgarh Sahib,2007,14325.0,6-8,Boys,True
+Malerkotla,2007,,6-8,Boys,True
+Gurdaspur,2006,48155.0,6-8,Boys,False
+Pathankot,2006,,6-8,Boys,True
+Amritsar,2006,43309.0,6-8,Boys,False
+Tarn Taran,2006,27926.0,6-8,Boys,True
+Kapurthala,2006,19119.0,6-8,Boys,False
+Jalandhar,2006,58495.0,6-8,Boys,False
+SBS Nagar,2006,16435.0,6-8,Boys,True
+Hoshiarpur,2006,44217.0,6-8,Boys,False
+Rupnagar,2006,16996.0,6-8,Boys,False
+SAS Nagar,2006,14026.0,6-8,Boys,True
+Ludhiana,2006,56319.0,6-8,Boys,False
+Ferozepur,2006,38627.0,6-8,Boys,False
+Fazilka,2006,,6-8,Boys,True
+Faridkot,2006,15313.0,6-8,Boys,False
+Sri Muktsar Sahib,2006,16980.0,6-8,Boys,True
+Moga,2006,26435.0,6-8,Boys,True
+Bathinda,2006,30312.0,6-8,Boys,False
+Mansa,2006,15420.0,6-8,Boys,True
+Sangrur,2006,42475.0,6-8,Boys,False
+Barnala,2006,,6-8,Boys,True
+Patiala,2006,39089.0,6-8,Boys,False
+Fatehgarh Sahib,2006,14325.0,6-8,Boys,True
+Malerkotla,2006,,6-8,Boys,True
+Gurdaspur,2005,47064.0,6-8,Boys,False
+Pathankot,2005,,6-8,Boys,True
+Amritsar,2005,70125.0,6-8,Boys,False
+Tarn Taran,2005,,6-8,Boys,True
+Kapurthala,2005,18942.0,6-8,Boys,False
+Jalandhar,2005,57345.0,6-8,Boys,False
+SBS Nagar,2005,15665.0,6-8,Boys,True
+Hoshiarpur,2005,44001.0,6-8,Boys,False
+Rupnagar,2005,26315.0,6-8,Boys,False
+SAS Nagar,2005,,6-8,Boys,True
+Ludhiana,2005,55162.0,6-8,Boys,False
+Ferozepur,2005,37869.0,6-8,Boys,False
+Fazilka,2005,,6-8,Boys,True
+Faridkot,2005,14449.0,6-8,Boys,False
+Sri Muktsar Sahib,2005,16170.0,6-8,Boys,True
+Moga,2005,25359.0,6-8,Boys,True
+Bathinda,2005,29910.0,6-8,Boys,False
+Mansa,2005,15307.0,6-8,Boys,True
+Sangrur,2005,42175.0,6-8,Boys,False
+Barnala,2005,,6-8,Boys,True
+Patiala,2005,41914.0,6-8,Boys,False
+Fatehgarh Sahib,2005,13225.0,6-8,Boys,True
+Malerkotla,2005,,6-8,Boys,True
+Gurdaspur,2004,46492.0,6-8,Boys,False
+Pathankot,2004,,6-8,Boys,True
+Amritsar,2004,72215.0,6-8,Boys,False
+Tarn Taran,2004,,6-8,Boys,True
+Kapurthala,2004,16205.0,6-8,Boys,False
+Jalandhar,2004,57688.0,6-8,Boys,False
+SBS Nagar,2004,14584.0,6-8,Boys,True
+Hoshiarpur,2004,43917.0,6-8,Boys,False
+Rupnagar,2004,26776.0,6-8,Boys,False
+SAS Nagar,2004,,6-8,Boys,True
+Ludhiana,2004,55137.0,6-8,Boys,False
+Ferozepur,2004,36259.0,6-8,Boys,False
+Fazilka,2004,,6-8,Boys,True
+Faridkot,2004,14443.0,6-8,Boys,False
+Sri Muktsar Sahib,2004,14264.0,6-8,Boys,True
+Moga,2004,24120.0,6-8,Boys,True
+Bathinda,2004,28945.0,6-8,Boys,False
+Mansa,2004,12485.0,6-8,Boys,True
+Sangrur,2004,40385.0,6-8,Boys,False
+Barnala,2004,,6-8,Boys,True
+Patiala,2004,39178.0,6-8,Boys,False
+Fatehgarh Sahib,2004,12399.0,6-8,Boys,True
+Malerkotla,2004,,6-8,Boys,True
+Gurdaspur,2003,47654.0,6-8,Boys,False
+Pathankot,2003,,6-8,Boys,True
+Amritsar,2003,72113.0,6-8,Boys,False
+Tarn Taran,2003,,6-8,Boys,True
+Kapurthala,2003,16303.0,6-8,Boys,False
+Jalandhar,2003,55116.0,6-8,Boys,False
+SBS Nagar,2003,14408.0,6-8,Boys,True
+Hoshiarpur,2003,43917.0,6-8,Boys,False
+Rupnagar,2003,26366.0,6-8,Boys,False
+SAS Nagar,2003,,6-8,Boys,True
+Ludhiana,2003,55268.0,6-8,Boys,False
+Ferozepur,2003,35997.0,6-8,Boys,False
+Fazilka,2003,,6-8,Boys,True
+Faridkot,2003,14206.0,6-8,Boys,False
+Sri Muktsar Sahib,2003,15694.0,6-8,Boys,True
+Moga,2003,23481.0,6-8,Boys,True
+Bathinda,2003,29581.0,6-8,Boys,False
+Mansa,2003,12936.0,6-8,Boys,True
+Sangrur,2003,36467.0,6-8,Boys,False
+Barnala,2003,,6-8,Boys,True
+Patiala,2003,38115.0,6-8,Boys,False
+Fatehgarh Sahib,2003,13565.0,6-8,Boys,True
+Malerkotla,2003,,6-8,Boys,True
+Gurdaspur,2002,49309.0,6-8,Boys,False
+Pathankot,2002,,6-8,Boys,True
+Amritsar,2002,61696.0,6-8,Boys,False
+Tarn Taran,2002,,6-8,Boys,True
+Kapurthala,2002,16746.0,6-8,Boys,False
+Jalandhar,2002,46378.0,6-8,Boys,False
+SBS Nagar,2002,14255.0,6-8,Boys,True
+Hoshiarpur,2002,39827.0,6-8,Boys,False
+Rupnagar,2002,25399.0,6-8,Boys,False
+SAS Nagar,2002,,6-8,Boys,True
+Ludhiana,2002,55598.0,6-8,Boys,False
+Ferozepur,2002,37003.0,6-8,Boys,False
+Fazilka,2002,,6-8,Boys,True
+Faridkot,2002,13808.0,6-8,Boys,False
+Sri Muktsar Sahib,2002,15836.0,6-8,Boys,True
+Moga,2002,21689.0,6-8,Boys,True
+Bathinda,2002,28721.0,6-8,Boys,False
+Mansa,2002,13104.0,6-8,Boys,True
+Sangrur,2002,39886.0,6-8,Boys,False
+Barnala,2002,,6-8,Boys,True
+Patiala,2002,38150.0,6-8,Boys,False
+Fatehgarh Sahib,2002,12791.0,6-8,Boys,True
+Malerkotla,2002,,6-8,Boys,True
+Gurdaspur,2001,46431.0,6-8,Boys,False
+Pathankot,2001,,6-8,Boys,True
+Amritsar,2001,49591.0,6-8,Boys,False
+Tarn Taran,2001,,6-8,Boys,True
+Kapurthala,2001,16472.0,6-8,Boys,False
+Jalandhar,2001,55626.0,6-8,Boys,False
+SBS Nagar,2001,14099.0,6-8,Boys,True
+Hoshiarpur,2001,42639.0,6-8,Boys,False
+Rupnagar,2001,25496.0,6-8,Boys,False
+SAS Nagar,2001,,6-8,Boys,True
+Ludhiana,2001,54842.0,6-8,Boys,False
+Ferozepur,2001,35869.0,6-8,Boys,False
+Fazilka,2001,,6-8,Boys,True
+Faridkot,2001,13268.0,6-8,Boys,False
+Sri Muktsar Sahib,2001,14190.0,6-8,Boys,True
+Moga,2001,21260.0,6-8,Boys,True
+Bathinda,2001,29930.0,6-8,Boys,False
+Mansa,2001,12736.0,6-8,Boys,True
+Sangrur,2001,43933.0,6-8,Boys,False
+Barnala,2001,,6-8,Boys,True
+Patiala,2001,37947.0,6-8,Boys,False
+Fatehgarh Sahib,2001,12815.0,6-8,Boys,True
+Malerkotla,2001,,6-8,Boys,True
+Gurdaspur,2000,47806.0,6-8,Boys,False
+Pathankot,2000,,6-8,Boys,True
+Amritsar,2000,48245.0,6-8,Boys,False
+Tarn Taran,2000,,6-8,Boys,True
+Kapurthala,2000,15793.0,6-8,Boys,False
+Jalandhar,2000,52764.0,6-8,Boys,False
+SBS Nagar,2000,14659.0,6-8,Boys,True
+Hoshiarpur,2000,42639.0,6-8,Boys,False
+Rupnagar,2000,25558.0,6-8,Boys,False
+SAS Nagar,2000,,6-8,Boys,True
+Ludhiana,2000,56684.0,6-8,Boys,False
+Ferozepur,2000,35231.0,6-8,Boys,False
+Fazilka,2000,,6-8,Boys,True
+Faridkot,2000,12862.0,6-8,Boys,False
+Sri Muktsar Sahib,2000,13538.0,6-8,Boys,True
+Moga,2000,20895.0,6-8,Boys,True
+Bathinda,2000,27610.0,6-8,Boys,False
+Mansa,2000,13120.0,6-8,Boys,True
+Sangrur,2000,41767.0,6-8,Boys,False
+Barnala,2000,,6-8,Boys,True
+Patiala,2000,39964.0,6-8,Boys,False
+Fatehgarh Sahib,2000,12712.0,6-8,Boys,True
+Malerkotla,2000,,6-8,Boys,True
+Gurdaspur,1999,47240.0,6-8,Boys,False
+Pathankot,1999,,6-8,Boys,True
+Amritsar,1999,45979.0,6-8,Boys,False
+Tarn Taran,1999,,6-8,Boys,True
+Kapurthala,1999,15530.0,6-8,Boys,False
+Jalandhar,1999,51623.0,6-8,Boys,False
+SBS Nagar,1999,14404.0,6-8,Boys,True
+Hoshiarpur,1999,40702.0,6-8,Boys,False
+Rupnagar,1999,26745.0,6-8,Boys,False
+SAS Nagar,1999,,6-8,Boys,True
+Ludhiana,1999,57595.0,6-8,Boys,False
+Ferozepur,1999,40757.0,6-8,Boys,False
+Fazilka,1999,,6-8,Boys,True
+Faridkot,1999,12982.0,6-8,Boys,False
+Sri Muktsar Sahib,1999,15793.0,6-8,Boys,True
+Moga,1999,17284.0,6-8,Boys,True
+Bathinda,1999,27422.0,6-8,Boys,False
+Mansa,1999,14059.0,6-8,Boys,True
+Sangrur,1999,43835.0,6-8,Boys,False
+Barnala,1999,,6-8,Boys,True
+Patiala,1999,42361.0,6-8,Boys,False
+Fatehgarh Sahib,1999,12915.0,6-8,Boys,True
+Malerkotla,1999,,6-8,Boys,True
+Gurdaspur,1998,50565.0,6-8,Boys,False
+Pathankot,1998,,6-8,Boys,True
+Amritsar,1998,69892.0,6-8,Boys,False
+Tarn Taran,1998,,6-8,Boys,True
+Kapurthala,1998,15557.0,6-8,Boys,False
+Jalandhar,1998,54104.0,6-8,Boys,False
+SBS Nagar,1998,14652.0,6-8,Boys,True
+Hoshiarpur,1998,38825.0,6-8,Boys,False
+Rupnagar,1998,27866.0,6-8,Boys,False
+SAS Nagar,1998,,6-8,Boys,True
+Ludhiana,1998,55860.0,6-8,Boys,False
+Ferozepur,1998,40141.0,6-8,Boys,False
+Fazilka,1998,,6-8,Boys,True
+Faridkot,1998,13746.0,6-8,Boys,False
+Sri Muktsar Sahib,1998,15646.0,6-8,Boys,True
+Moga,1998,17367.0,6-8,Boys,True
+Bathinda,1998,26305.0,6-8,Boys,False
+Mansa,1998,13984.0,6-8,Boys,True
+Sangrur,1998,42987.0,6-8,Boys,False
+Barnala,1998,,6-8,Boys,True
+Patiala,1998,41785.0,6-8,Boys,False
+Fatehgarh Sahib,1998,13143.0,6-8,Boys,True
+Malerkotla,1998,,6-8,Boys,True
+Gurdaspur,1997,48969.0,6-8,Boys,False
+Pathankot,1997,,6-8,Boys,True
+Amritsar,1997,68728.0,6-8,Boys,False
+Tarn Taran,1997,,6-8,Boys,True
+Kapurthala,1997,15729.0,6-8,Boys,False
+Jalandhar,1997,50829.0,6-8,Boys,False
+SBS Nagar,1997,14406.0,6-8,Boys,True
+Hoshiarpur,1997,38637.0,6-8,Boys,False
+Rupnagar,1997,27052.0,6-8,Boys,False
+SAS Nagar,1997,,6-8,Boys,True
+Ludhiana,1997,52147.0,6-8,Boys,False
+Ferozepur,1997,40280.0,6-8,Boys,False
+Fazilka,1997,,6-8,Boys,True
+Faridkot,1997,13403.0,6-8,Boys,False
+Sri Muktsar Sahib,1997,15347.0,6-8,Boys,True
+Moga,1997,17905.0,6-8,Boys,True
+Bathinda,1997,28346.0,6-8,Boys,False
+Mansa,1997,13605.0,6-8,Boys,True
+Sangrur,1997,43181.0,6-8,Boys,False
+Barnala,1997,,6-8,Boys,True
+Patiala,1997,43671.0,6-8,Boys,False
+Fatehgarh Sahib,1997,13681.0,6-8,Boys,True
+Malerkotla,1997,,6-8,Boys,True
+Gurdaspur,1996,48872.0,6-8,Boys,False
+Pathankot,1996,,6-8,Boys,True
+Amritsar,1996,67649.0,6-8,Boys,False
+Tarn Taran,1996,,6-8,Boys,True
+Kapurthala,1996,15502.0,6-8,Boys,False
+Jalandhar,1996,49725.0,6-8,Boys,False
+SBS Nagar,1996,13931.0,6-8,Boys,True
+Hoshiarpur,1996,38168.0,6-8,Boys,False
+Rupnagar,1996,25890.0,6-8,Boys,False
+SAS Nagar,1996,,6-8,Boys,True
+Ludhiana,1996,52549.0,6-8,Boys,False
+Ferozepur,1996,38892.0,6-8,Boys,False
+Fazilka,1996,,6-8,Boys,True
+Faridkot,1996,12548.0,6-8,Boys,False
+Sri Muktsar Sahib,1996,15506.0,6-8,Boys,True
+Moga,1996,17661.0,6-8,Boys,True
+Bathinda,1996,26506.0,6-8,Boys,False
+Mansa,1996,12861.0,6-8,Boys,True
+Sangrur,1996,45538.0,6-8,Boys,False
+Barnala,1996,,6-8,Boys,True
+Patiala,1996,41278.0,6-8,Boys,False
+Fatehgarh Sahib,1996,12631.0,6-8,Boys,True
+Malerkotla,1996,,6-8,Boys,True
+Gurdaspur,1995,52579.0,6-8,Boys,False
+Pathankot,1995,,6-8,Boys,True
+Amritsar,1995,68460.0,6-8,Boys,False
+Tarn Taran,1995,,6-8,Boys,True
+Kapurthala,1995,14861.0,6-8,Boys,False
+Jalandhar,1995,54468.0,6-8,Boys,False
+SBS Nagar,1995,,6-8,Boys,True
+Hoshiarpur,1995,42059.0,6-8,Boys,False
+Rupnagar,1995,25632.0,6-8,Boys,False
+SAS Nagar,1995,,6-8,Boys,True
+Ludhiana,1995,52139.0,6-8,Boys,False
+Ferozepur,1995,39699.0,6-8,Boys,False
+Fazilka,1995,,6-8,Boys,True
+Faridkot,1995,47485.0,6-8,Boys,False
+Sri Muktsar Sahib,1995,,6-8,Boys,True
+Moga,1995,,6-8,Boys,True
+Bathinda,1995,25617.0,6-8,Boys,False
+Mansa,1995,12048.0,6-8,Boys,True
+Sangrur,1995,43460.0,6-8,Boys,False
+Barnala,1995,,6-8,Boys,True
+Patiala,1995,40895.0,6-8,Boys,False
+Fatehgarh Sahib,1995,13431.0,6-8,Boys,True
+Malerkotla,1995,,6-8,Boys,True
+Gurdaspur,1994,48348.0,6-8,Boys,False
+Pathankot,1994,,6-8,Boys,True
+Amritsar,1994,64637.0,6-8,Boys,False
+Tarn Taran,1994,,6-8,Boys,True
+Kapurthala,1994,15418.0,6-8,Boys,False
+Jalandhar,1994,57119.0,6-8,Boys,False
+SBS Nagar,1994,,6-8,Boys,True
+Hoshiarpur,1994,42052.0,6-8,Boys,False
+Rupnagar,1994,25333.0,6-8,Boys,False
+SAS Nagar,1994,,6-8,Boys,True
+Ludhiana,1994,52123.0,6-8,Boys,False
+Ferozepur,1994,37807.0,6-8,Boys,False
+Fazilka,1994,,6-8,Boys,True
+Faridkot,1994,44752.0,6-8,Boys,False
+Sri Muktsar Sahib,1994,,6-8,Boys,True
+Moga,1994,,6-8,Boys,True
+Bathinda,1994,24732.0,6-8,Boys,False
+Mansa,1994,11660.0,6-8,Boys,True
+Sangrur,1994,43300.0,6-8,Boys,False
+Barnala,1994,,6-8,Boys,True
+Patiala,1994,40068.0,6-8,Boys,False
+Fatehgarh Sahib,1994,13743.0,6-8,Boys,True
+Malerkotla,1994,,6-8,Boys,True
+Gurdaspur,1993,45510.0,6-8,Boys,False
+Pathankot,1993,,6-8,Boys,True
+Amritsar,1993,65364.0,6-8,Boys,False
+Tarn Taran,1993,,6-8,Boys,True
+Kapurthala,1993,14525.0,6-8,Boys,False
+Jalandhar,1993,54050.0,6-8,Boys,False
+SBS Nagar,1993,,6-8,Boys,True
+Hoshiarpur,1993,42288.0,6-8,Boys,False
+Rupnagar,1993,25265.0,6-8,Boys,False
+SAS Nagar,1993,,6-8,Boys,True
+Ludhiana,1993,51150.0,6-8,Boys,False
+Ferozepur,1993,39530.0,6-8,Boys,False
+Fazilka,1993,,6-8,Boys,True
+Faridkot,1993,46139.0,6-8,Boys,False
+Sri Muktsar Sahib,1993,,6-8,Boys,True
+Moga,1993,,6-8,Boys,True
+Bathinda,1993,23757.0,6-8,Boys,False
+Mansa,1993,10662.0,6-8,Boys,True
+Sangrur,1993,39920.0,6-8,Boys,False
+Barnala,1993,,6-8,Boys,True
+Patiala,1993,38492.0,6-8,Boys,False
+Fatehgarh Sahib,1993,12745.0,6-8,Boys,True
+Malerkotla,1993,,6-8,Boys,True
+Gurdaspur,1992,47218.0,6-8,Boys,False
+Pathankot,1992,,6-8,Boys,True
+Amritsar,1992,63398.0,6-8,Boys,False
+Tarn Taran,1992,,6-8,Boys,True
+Kapurthala,1992,13202.0,6-8,Boys,False
+Jalandhar,1992,55424.0,6-8,Boys,False
+SBS Nagar,1992,,6-8,Boys,True
+Hoshiarpur,1992,41868.0,6-8,Boys,False
+Rupnagar,1992,24862.0,6-8,Boys,False
+SAS Nagar,1992,,6-8,Boys,True
+Ludhiana,1992,49037.0,6-8,Boys,False
+Ferozepur,1992,37259.0,6-8,Boys,False
+Fazilka,1992,,6-8,Boys,True
+Faridkot,1992,46691.0,6-8,Boys,False
+Sri Muktsar Sahib,1992,,6-8,Boys,True
+Moga,1992,,6-8,Boys,True
+Bathinda,1992,22566.0,6-8,Boys,False
+Mansa,1992,10306.0,6-8,Boys,True
+Sangrur,1992,38650.0,6-8,Boys,False
+Barnala,1992,,6-8,Boys,True
+Patiala,1992,35429.0,6-8,Boys,False
+Fatehgarh Sahib,1992,12376.0,6-8,Boys,True
+Malerkotla,1992,,6-8,Boys,True
+Gurdaspur,1991,48437.0,6-8,Boys,False
+Pathankot,1991,,6-8,Boys,True
+Amritsar,1991,61259.0,6-8,Boys,False
+Tarn Taran,1991,,6-8,Boys,True
+Kapurthala,1991,16363.0,6-8,Boys,False
+Jalandhar,1991,88632.0,6-8,Boys,False
+SBS Nagar,1991,,6-8,Boys,True
+Hoshiarpur,1991,41023.0,6-8,Boys,False
+Rupnagar,1991,25864.0,6-8,Boys,False
+SAS Nagar,1991,,6-8,Boys,True
+Ludhiana,1991,54749.0,6-8,Boys,False
+Ferozepur,1991,35160.0,6-8,Boys,False
+Fazilka,1991,,6-8,Boys,True
+Faridkot,1991,40348.0,6-8,Boys,False
+Sri Muktsar Sahib,1991,,6-8,Boys,True
+Moga,1991,,6-8,Boys,True
+Bathinda,1991,33159.0,6-8,Boys,False
+Mansa,1991,,6-8,Boys,True
+Sangrur,1991,42590.0,6-8,Boys,False
+Barnala,1991,,6-8,Boys,True
+Patiala,1991,50065.0,6-8,Boys,False
+Fatehgarh Sahib,1991,,6-8,Boys,True
+Malerkotla,1991,,6-8,Boys,True
+Gurdaspur,1990,51096.0,6-8,Boys,False
+Pathankot,1990,,6-8,Boys,True
+Amritsar,1990,57380.0,6-8,Boys,False
+Tarn Taran,1990,,6-8,Boys,True
+Kapurthala,1990,15863.0,6-8,Boys,False
+Jalandhar,1990,84688.0,6-8,Boys,False
+SBS Nagar,1990,,6-8,Boys,True
+Hoshiarpur,1990,47211.0,6-8,Boys,False
+Rupnagar,1990,25786.0,6-8,Boys,False
+SAS Nagar,1990,,6-8,Boys,True
+Ludhiana,1990,54647.0,6-8,Boys,False
+Ferozepur,1990,30286.0,6-8,Boys,False
+Fazilka,1990,,6-8,Boys,True
+Faridkot,1990,39910.0,6-8,Boys,False
+Sri Muktsar Sahib,1990,,6-8,Boys,True
+Moga,1990,,6-8,Boys,True
+Bathinda,1990,33291.0,6-8,Boys,False
+Mansa,1990,,6-8,Boys,True
+Sangrur,1990,40637.0,6-8,Boys,False
+Barnala,1990,,6-8,Boys,True
+Patiala,1990,48983.0,6-8,Boys,False
+Fatehgarh Sahib,1990,,6-8,Boys,True
+Malerkotla,1990,,6-8,Boys,True
+Gurdaspur,1989,50192.0,6-8,Boys,False
+Pathankot,1989,,6-8,Boys,True
+Amritsar,1989,53091.0,6-8,Boys,False
+Tarn Taran,1989,,6-8,Boys,True
+Kapurthala,1989,14967.0,6-8,Boys,False
+Jalandhar,1989,61983.0,6-8,Boys,False
+SBS Nagar,1989,,6-8,Boys,True
+Hoshiarpur,1989,44793.0,6-8,Boys,False
+Rupnagar,1989,25231.0,6-8,Boys,False
+SAS Nagar,1989,,6-8,Boys,True
+Ludhiana,1989,51736.0,6-8,Boys,False
+Ferozepur,1989,32434.0,6-8,Boys,False
+Fazilka,1989,,6-8,Boys,True
+Faridkot,1989,41501.0,6-8,Boys,False
+Sri Muktsar Sahib,1989,,6-8,Boys,True
+Moga,1989,,6-8,Boys,True
+Bathinda,1989,31109.0,6-8,Boys,False
+Mansa,1989,,6-8,Boys,True
+Sangrur,1989,35320.0,6-8,Boys,False
+Barnala,1989,,6-8,Boys,True
+Patiala,1989,45613.0,6-8,Boys,False
+Fatehgarh Sahib,1989,,6-8,Boys,True
+Malerkotla,1989,,6-8,Boys,True
+Gurdaspur,2022,18066.0,6-8,Girls,False
+Pathankot,2022,6505.0,6-8,Girls,True
+Amritsar,2022,26384.0,6-8,Girls,False
+Tarn Taran,2022,16070.0,6-8,Girls,True
+Kapurthala,2022,8173.0,6-8,Girls,False
+Jalandhar,2022,21084.0,6-8,Girls,False
+SBS Nagar,2022,6572.0,6-8,Girls,True
+Hoshiarpur,2022,17679.0,6-8,Girls,False
+Rupnagar,2022,7949.0,6-8,Girls,False
+SAS Nagar,2022,12453.0,6-8,Girls,True
+Ludhiana,2022,34163.0,6-8,Girls,False
+Ferozepur,2022,13256.0,6-8,Girls,False
+Fazilka,2022,18897.0,6-8,Girls,True
+Faridkot,2022,8206.0,6-8,Girls,False
+Sri Muktsar Sahib,2022,13576.0,6-8,Girls,True
+Moga,2022,12428.0,6-8,Girls,True
+Bathinda,2022,18705.0,6-8,Girls,False
+Mansa,2022,11125.0,6-8,Girls,True
+Sangrur,2022,14777.0,6-8,Girls,False
+Barnala,2022,6809.0,6-8,Girls,True
+Patiala,2022,23079.0,6-8,Girls,False
+Fatehgarh Sahib,2022,6822.0,6-8,Girls,True
+Malerkotla,2022,4121.0,6-8,Girls,True
+Gurdaspur,2021,17632.0,6-8,Girls,False
+Pathankot,2021,6157.0,6-8,Girls,True
+Amritsar,2021,24885.0,6-8,Girls,False
+Tarn Taran,2021,14975.0,6-8,Girls,True
+Kapurthala,2021,7971.0,6-8,Girls,False
+Jalandhar,2021,19456.0,6-8,Girls,False
+SBS Nagar,2021,6309.0,6-8,Girls,True
+Hoshiarpur,2021,16441.0,6-8,Girls,False
+Rupnagar,2021,7773.0,6-8,Girls,False
+SAS Nagar,2021,11450.0,6-8,Girls,True
+Ludhiana,2021,30656.0,6-8,Girls,False
+Ferozepur,2021,12462.0,6-8,Girls,False
+Fazilka,2021,17307.0,6-8,Girls,True
+Faridkot,2021,7832.0,6-8,Girls,False
+Sri Muktsar Sahib,2021,12963.0,6-8,Girls,True
+Moga,2021,11693.0,6-8,Girls,True
+Bathinda,2021,16933.0,6-8,Girls,False
+Mansa,2021,10928.0,6-8,Girls,True
+Sangrur,2021,18317.0,6-8,Girls,False
+Barnala,2021,6434.0,6-8,Girls,True
+Patiala,2021,21826.0,6-8,Girls,False
+Fatehgarh Sahib,2021,6543.0,6-8,Girls,True
+Malerkotla,2021,,6-8,Girls,True
+Gurdaspur,2020,16604.0,6-8,Girls,False
+Pathankot,2020,5688.0,6-8,Girls,True
+Amritsar,2020,23030.0,6-8,Girls,False
+Tarn Taran,2020,13865.0,6-8,Girls,True
+Kapurthala,2020,7433.0,6-8,Girls,False
+Jalandhar,2020,18508.0,6-8,Girls,False
+SBS Nagar,2020,5959.0,6-8,Girls,True
+Hoshiarpur,2020,15216.0,6-8,Girls,False
+Rupnagar,2020,7102.0,6-8,Girls,False
+SAS Nagar,2020,9829.0,6-8,Girls,True
+Ludhiana,2020,28549.0,6-8,Girls,False
+Ferozepur,2020,11352.0,6-8,Girls,False
+Fazilka,2020,15871.0,6-8,Girls,True
+Faridkot,2020,7430.0,6-8,Girls,False
+Sri Muktsar Sahib,2020,12298.0,6-8,Girls,True
+Moga,2020,11415.0,6-8,Girls,True
+Bathinda,2020,15980.0,6-8,Girls,False
+Mansa,2020,10600.0,6-8,Girls,True
+Sangrur,2020,17328.0,6-8,Girls,False
+Barnala,2020,6127.0,6-8,Girls,True
+Patiala,2020,20871.0,6-8,Girls,False
+Fatehgarh Sahib,2020,6216.0,6-8,Girls,True
+Malerkotla,2020,,6-8,Girls,True
+Gurdaspur,2019,16398.0,6-8,Girls,False
+Pathankot,2019,5553.0,6-8,Girls,True
+Amritsar,2019,22899.0,6-8,Girls,False
+Tarn Taran,2019,13804.0,6-8,Girls,True
+Kapurthala,2019,7340.0,6-8,Girls,False
+Jalandhar,2019,18174.0,6-8,Girls,False
+SBS Nagar,2019,5942.0,6-8,Girls,True
+Hoshiarpur,2019,15062.0,6-8,Girls,False
+Rupnagar,2019,7043.0,6-8,Girls,False
+SAS Nagar,2019,9447.0,6-8,Girls,True
+Ludhiana,2019,28314.0,6-8,Girls,False
+Ferozepur,2019,11357.0,6-8,Girls,False
+Fazilka,2019,15813.0,6-8,Girls,True
+Faridkot,2019,7464.0,6-8,Girls,False
+Sri Muktsar Sahib,2019,12206.0,6-8,Girls,True
+Moga,2019,11339.0,6-8,Girls,True
+Bathinda,2019,15870.0,6-8,Girls,False
+Mansa,2019,10362.0,6-8,Girls,True
+Sangrur,2019,17026.0,6-8,Girls,False
+Barnala,2019,6026.0,6-8,Girls,True
+Patiala,2019,20783.0,6-8,Girls,False
+Fatehgarh Sahib,2019,6071.0,6-8,Girls,True
+Malerkotla,2019,,6-8,Girls,True
+Gurdaspur,2018,18028.0,6-8,Girls,False
+Pathankot,2018,6380.0,6-8,Girls,True
+Amritsar,2018,24333.0,6-8,Girls,False
+Tarn Taran,2018,14870.0,6-8,Girls,True
+Kapurthala,2018,8444.0,6-8,Girls,False
+Jalandhar,2018,20528.0,6-8,Girls,False
+SBS Nagar,2018,6766.0,6-8,Girls,True
+Hoshiarpur,2018,17002.0,6-8,Girls,False
+Rupnagar,2018,7727.0,6-8,Girls,False
+SAS Nagar,2018,9343.0,6-8,Girls,True
+Ludhiana,2018,30348.0,6-8,Girls,False
+Ferozepur,2018,12352.0,6-8,Girls,False
+Fazilka,2018,16516.0,6-8,Girls,True
+Faridkot,2018,8666.0,6-8,Girls,False
+Sri Muktsar Sahib,2018,13457.0,6-8,Girls,True
+Moga,2018,14136.0,6-8,Girls,True
+Bathinda,2018,18153.0,6-8,Girls,False
+Mansa,2018,12207.0,6-8,Girls,True
+Sangrur,2018,19458.0,6-8,Girls,False
+Barnala,2018,7649.0,6-8,Girls,True
+Patiala,2018,22266.0,6-8,Girls,False
+Fatehgarh Sahib,2018,7057.0,6-8,Girls,True
+Malerkotla,2018,,6-8,Girls,True
+Gurdaspur,2017,18028.0,6-8,Girls,False
+Pathankot,2017,6380.0,6-8,Girls,True
+Amritsar,2017,24333.0,6-8,Girls,False
+Tarn Taran,2017,14870.0,6-8,Girls,True
+Kapurthala,2017,8444.0,6-8,Girls,False
+Jalandhar,2017,20528.0,6-8,Girls,False
+SBS Nagar,2017,6766.0,6-8,Girls,True
+Hoshiarpur,2017,17002.0,6-8,Girls,False
+Rupnagar,2017,7727.0,6-8,Girls,False
+SAS Nagar,2017,9343.0,6-8,Girls,True
+Ludhiana,2017,30348.0,6-8,Girls,False
+Ferozepur,2017,12352.0,6-8,Girls,False
+Fazilka,2017,16516.0,6-8,Girls,True
+Faridkot,2017,8666.0,6-8,Girls,False
+Sri Muktsar Sahib,2017,13457.0,6-8,Girls,True
+Moga,2017,14136.0,6-8,Girls,True
+Bathinda,2017,18153.0,6-8,Girls,False
+Mansa,2017,12207.0,6-8,Girls,True
+Sangrur,2017,19458.0,6-8,Girls,False
+Barnala,2017,7649.0,6-8,Girls,True
+Patiala,2017,22266.0,6-8,Girls,False
+Fatehgarh Sahib,2017,7057.0,6-8,Girls,True
+Malerkotla,2017,,6-8,Girls,True
+Gurdaspur,2016,18756.0,6-8,Girls,False
+Pathankot,2016,6765.0,6-8,Girls,True
+Amritsar,2016,25449.0,6-8,Girls,False
+Tarn Taran,2016,15533.0,6-8,Girls,True
+Kapurthala,2016,9153.0,6-8,Girls,False
+Jalandhar,2016,21657.0,6-8,Girls,False
+SBS Nagar,2016,7017.0,6-8,Girls,True
+Hoshiarpur,2016,18320.0,6-8,Girls,False
+Rupnagar,2016,8288.0,6-8,Girls,False
+SAS Nagar,2016,9528.0,6-8,Girls,True
+Ludhiana,2016,31523.0,6-8,Girls,False
+Ferozepur,2016,12731.0,6-8,Girls,False
+Fazilka,2016,16814.0,6-8,Girls,True
+Faridkot,2016,9126.0,6-8,Girls,False
+Sri Muktsar Sahib,2016,14219.0,6-8,Girls,True
+Moga,2016,15564.0,6-8,Girls,True
+Bathinda,2016,19446.0,6-8,Girls,False
+Mansa,2016,13135.0,6-8,Girls,True
+Sangrur,2016,20580.0,6-8,Girls,False
+Barnala,2016,8591.0,6-8,Girls,True
+Patiala,2016,23537.0,6-8,Girls,False
+Fatehgarh Sahib,2016,7479.0,6-8,Girls,True
+Malerkotla,2016,,6-8,Girls,True
+Gurdaspur,2015,19531.0,6-8,Girls,False
+Pathankot,2015,7117.0,6-8,Girls,True
+Amritsar,2015,26025.0,6-8,Girls,False
+Tarn Taran,2015,16125.0,6-8,Girls,True
+Kapurthala,2015,9611.0,6-8,Girls,False
+Jalandhar,2015,22443.0,6-8,Girls,False
+SBS Nagar,2015,7712.0,6-8,Girls,True
+Hoshiarpur,2015,19618.0,6-8,Girls,False
+Rupnagar,2015,8810.0,6-8,Girls,False
+SAS Nagar,2015,9636.0,6-8,Girls,True
+Ludhiana,2015,32653.0,6-8,Girls,False
+Ferozepur,2015,13336.0,6-8,Girls,False
+Fazilka,2015,17180.0,6-8,Girls,True
+Faridkot,2015,9561.0,6-8,Girls,False
+Sri Muktsar Sahib,2015,14617.0,6-8,Girls,True
+Moga,2015,16387.0,6-8,Girls,True
+Bathinda,2015,20221.0,6-8,Girls,False
+Mansa,2015,13963.0,6-8,Girls,True
+Sangrur,2015,21570.0,6-8,Girls,False
+Barnala,2015,9185.0,6-8,Girls,True
+Patiala,2015,24334.0,6-8,Girls,False
+Fatehgarh Sahib,2015,7902.0,6-8,Girls,True
+Malerkotla,2015,,6-8,Girls,True
+Gurdaspur,2014,17074.0,6-8,Girls,False
+Pathankot,2014,7632.0,6-8,Girls,True
+Amritsar,2014,29748.0,6-8,Girls,False
+Tarn Taran,2014,11221.0,6-8,Girls,True
+Kapurthala,2014,7291.0,6-8,Girls,False
+Jalandhar,2014,17574.0,6-8,Girls,False
+SBS Nagar,2014,4650.0,6-8,Girls,True
+Hoshiarpur,2014,13248.0,6-8,Girls,False
+Rupnagar,2014,8169.0,6-8,Girls,False
+SAS Nagar,2014,10585.0,6-8,Girls,True
+Ludhiana,2014,30588.0,6-8,Girls,False
+Ferozepur,2014,7879.0,6-8,Girls,False
+Fazilka,2014,12533.0,6-8,Girls,True
+Faridkot,2014,5661.0,6-8,Girls,False
+Sri Muktsar Sahib,2014,6091.0,6-8,Girls,True
+Moga,2014,6504.0,6-8,Girls,True
+Bathinda,2014,10220.0,6-8,Girls,False
+Mansa,2014,6274.0,6-8,Girls,True
+Sangrur,2014,11727.0,6-8,Girls,False
+Barnala,2014,3226.0,6-8,Girls,True
+Patiala,2014,16126.0,6-8,Girls,False
+Fatehgarh Sahib,2014,5253.0,6-8,Girls,True
+Malerkotla,2014,,6-8,Girls,True
+Gurdaspur,2013,38099.0,6-8,Girls,False
+Pathankot,2013,15892.0,6-8,Girls,True
+Amritsar,2013,55294.0,6-8,Girls,False
+Tarn Taran,2013,25678.0,6-8,Girls,True
+Kapurthala,2013,19344.0,6-8,Girls,False
+Jalandhar,2013,49509.0,6-8,Girls,False
+SBS Nagar,2013,14043.0,6-8,Girls,True
+Hoshiarpur,2013,36501.0,6-8,Girls,False
+Rupnagar,2013,15577.0,6-8,Girls,False
+SAS Nagar,2013,19424.0,6-8,Girls,True
+Ludhiana,2013,80974.0,6-8,Girls,False
+Ferozepur,2013,21994.0,6-8,Girls,False
+Fazilka,2013,24908.0,6-8,Girls,True
+Faridkot,2013,14592.0,6-8,Girls,False
+Sri Muktsar Sahib,2013,21748.0,6-8,Girls,True
+Moga,2013,23497.0,6-8,Girls,True
+Bathinda,2013,28900.0,6-8,Girls,False
+Mansa,2013,17539.0,6-8,Girls,True
+Sangrur,2013,36954.0,6-8,Girls,False
+Barnala,2013,14005.0,6-8,Girls,True
+Patiala,2013,43258.0,6-8,Girls,False
+Fatehgarh Sahib,2013,12580.0,6-8,Girls,True
+Malerkotla,2013,,6-8,Girls,True
+Gurdaspur,2012,7440.0,6-8,Girls,False
+Pathankot,2012,2008.0,6-8,Girls,True
+Amritsar,2012,8005.0,6-8,Girls,False
+Tarn Taran,2012,3669.0,6-8,Girls,True
+Kapurthala,2012,3762.0,6-8,Girls,False
+Jalandhar,2012,6198.0,6-8,Girls,False
+SBS Nagar,2012,2993.0,6-8,Girls,True
+Hoshiarpur,2012,6642.0,6-8,Girls,False
+Rupnagar,2012,4498.0,6-8,Girls,False
+SAS Nagar,2012,3584.0,6-8,Girls,True
+Ludhiana,2012,7434.0,6-8,Girls,False
+Ferozepur,2012,4105.0,6-8,Girls,False
+Fazilka,2012,5113.0,6-8,Girls,True
+Faridkot,2012,3075.0,6-8,Girls,False
+Sri Muktsar Sahib,2012,3049.0,6-8,Girls,True
+Moga,2012,2977.0,6-8,Girls,True
+Bathinda,2012,3776.0,6-8,Girls,False
+Mansa,2012,3022.0,6-8,Girls,True
+Sangrur,2012,5757.0,6-8,Girls,False
+Barnala,2012,1184.0,6-8,Girls,True
+Patiala,2012,8236.0,6-8,Girls,False
+Fatehgarh Sahib,2012,3396.0,6-8,Girls,True
+Malerkotla,2012,,6-8,Girls,True
+Gurdaspur,2011,36831.0,6-8,Girls,False
+Pathankot,2011,16273.0,6-8,Girls,True
+Amritsar,2011,53357.0,6-8,Girls,False
+Tarn Taran,2011,24884.0,6-8,Girls,True
+Kapurthala,2011,20547.0,6-8,Girls,False
+Jalandhar,2011,51258.0,6-8,Girls,False
+SBS Nagar,2011,14881.0,6-8,Girls,True
+Hoshiarpur,2011,37676.0,6-8,Girls,False
+Rupnagar,2011,16274.0,6-8,Girls,False
+SAS Nagar,2011,18170.0,6-8,Girls,True
+Ludhiana,2011,67601.0,6-8,Girls,False
+Ferozepur,2011,21370.0,6-8,Girls,False
+Fazilka,2011,23869.0,6-8,Girls,True
+Faridkot,2011,13772.0,6-8,Girls,False
+Sri Muktsar Sahib,2011,18934.0,6-8,Girls,True
+Moga,2011,22799.0,6-8,Girls,True
+Bathinda,2011,29284.0,6-8,Girls,False
+Mansa,2011,17789.0,6-8,Girls,True
+Sangrur,2011,38265.0,6-8,Girls,False
+Barnala,2011,13973.0,6-8,Girls,True
+Patiala,2011,43441.0,6-8,Girls,False
+Fatehgarh Sahib,2011,13164.0,6-8,Girls,True
+Malerkotla,2011,,6-8,Girls,True
+Gurdaspur,2010,48394.0,6-8,Girls,False
+Pathankot,2010,,6-8,Girls,True
+Amritsar,2010,42265.0,6-8,Girls,False
+Tarn Taran,2010,18537.0,6-8,Girls,True
+Kapurthala,2010,14539.0,6-8,Girls,False
+Jalandhar,2010,31282.0,6-8,Girls,False
+SBS Nagar,2010,12099.0,6-8,Girls,True
+Hoshiarpur,2010,32493.0,6-8,Girls,False
+Rupnagar,2010,14082.0,6-8,Girls,False
+SAS Nagar,2010,13593.0,6-8,Girls,True
+Ludhiana,2010,57936.0,6-8,Girls,False
+Ferozepur,2010,39915.0,6-8,Girls,False
+Fazilka,2010,,6-8,Girls,True
+Faridkot,2010,13022.0,6-8,Girls,False
+Sri Muktsar Sahib,2010,17446.0,6-8,Girls,True
+Moga,2010,21595.0,6-8,Girls,True
+Bathinda,2010,26843.0,6-8,Girls,False
+Mansa,2010,15370.0,6-8,Girls,True
+Sangrur,2010,31038.0,6-8,Girls,False
+Barnala,2010,11298.0,6-8,Girls,True
+Patiala,2010,35980.0,6-8,Girls,False
+Fatehgarh Sahib,2010,11511.0,6-8,Girls,True
+Malerkotla,2010,,6-8,Girls,True
+Gurdaspur,2009,44915.0,6-8,Girls,False
+Pathankot,2009,,6-8,Girls,True
+Amritsar,2009,38567.0,6-8,Girls,False
+Tarn Taran,2009,19308.0,6-8,Girls,True
+Kapurthala,2009,13232.0,6-8,Girls,False
+Jalandhar,2009,31368.0,6-8,Girls,False
+SBS Nagar,2009,11708.0,6-8,Girls,True
+Hoshiarpur,2009,32731.0,6-8,Girls,False
+Rupnagar,2009,13991.0,6-8,Girls,False
+SAS Nagar,2009,11779.0,6-8,Girls,True
+Ludhiana,2009,57068.0,6-8,Girls,False
+Ferozepur,2009,35538.0,6-8,Girls,False
+Fazilka,2009,,6-8,Girls,True
+Faridkot,2009,12235.0,6-8,Girls,False
+Sri Muktsar Sahib,2009,15576.0,6-8,Girls,True
+Moga,2009,20701.0,6-8,Girls,True
+Bathinda,2009,25395.0,6-8,Girls,False
+Mansa,2009,14186.0,6-8,Girls,True
+Sangrur,2009,28476.0,6-8,Girls,False
+Barnala,2009,9240.0,6-8,Girls,True
+Patiala,2009,30357.0,6-8,Girls,False
+Fatehgarh Sahib,2009,9852.0,6-8,Girls,True
+Malerkotla,2009,,6-8,Girls,True
+Gurdaspur,2008,,6-8,Girls,False
+Pathankot,2008,,6-8,Girls,True
+Amritsar,2008,,6-8,Girls,False
+Tarn Taran,2008,,6-8,Girls,True
+Kapurthala,2008,,6-8,Girls,False
+Jalandhar,2008,,6-8,Girls,False
+SBS Nagar,2008,,6-8,Girls,True
+Hoshiarpur,2008,,6-8,Girls,False
+Rupnagar,2008,,6-8,Girls,False
+SAS Nagar,2008,,6-8,Girls,True
+Ludhiana,2008,,6-8,Girls,False
+Ferozepur,2008,,6-8,Girls,False
+Fazilka,2008,,6-8,Girls,True
+Faridkot,2008,,6-8,Girls,False
+Sri Muktsar Sahib,2008,,6-8,Girls,True
+Moga,2008,,6-8,Girls,True
+Bathinda,2008,,6-8,Girls,False
+Mansa,2008,,6-8,Girls,True
+Sangrur,2008,,6-8,Girls,False
+Barnala,2008,,6-8,Girls,True
+Patiala,2008,,6-8,Girls,False
+Fatehgarh Sahib,2008,,6-8,Girls,True
+Malerkotla,2008,,6-8,Girls,True
+Gurdaspur,2007,42885.0,6-8,Girls,False
+Pathankot,2007,,6-8,Girls,True
+Amritsar,2007,32264.0,6-8,Girls,False
+Tarn Taran,2007,17550.0,6-8,Girls,True
+Kapurthala,2007,16859.0,6-8,Girls,False
+Jalandhar,2007,52520.0,6-8,Girls,False
+SBS Nagar,2007,14121.0,6-8,Girls,True
+Hoshiarpur,2007,38010.0,6-8,Girls,False
+Rupnagar,2007,15612.0,6-8,Girls,False
+SAS Nagar,2007,11661.0,6-8,Girls,True
+Ludhiana,2007,51884.0,6-8,Girls,False
+Ferozepur,2007,32474.0,6-8,Girls,False
+Fazilka,2007,,6-8,Girls,True
+Faridkot,2007,11610.0,6-8,Girls,False
+Sri Muktsar Sahib,2007,13872.0,6-8,Girls,True
+Moga,2007,20089.0,6-8,Girls,True
+Bathinda,2007,25386.0,6-8,Girls,False
+Mansa,2007,10857.0,6-8,Girls,True
+Sangrur,2007,27712.0,6-8,Girls,False
+Barnala,2007,11282.0,6-8,Girls,True
+Patiala,2007,32157.0,6-8,Girls,False
+Fatehgarh Sahib,2007,11913.0,6-8,Girls,True
+Malerkotla,2007,,6-8,Girls,True
+Gurdaspur,2006,41380.0,6-8,Girls,False
+Pathankot,2006,,6-8,Girls,True
+Amritsar,2006,33172.0,6-8,Girls,False
+Tarn Taran,2006,21301.0,6-8,Girls,True
+Kapurthala,2006,17613.0,6-8,Girls,False
+Jalandhar,2006,49611.0,6-8,Girls,False
+SBS Nagar,2006,15414.0,6-8,Girls,True
+Hoshiarpur,2006,39639.0,6-8,Girls,False
+Rupnagar,2006,15302.0,6-8,Girls,False
+SAS Nagar,2006,13382.0,6-8,Girls,True
+Ludhiana,2006,48419.0,6-8,Girls,False
+Ferozepur,2006,30513.0,6-8,Girls,False
+Fazilka,2006,,6-8,Girls,True
+Faridkot,2006,12213.0,6-8,Girls,False
+Sri Muktsar Sahib,2006,13619.0,6-8,Girls,True
+Moga,2006,20919.0,6-8,Girls,True
+Bathinda,2006,25416.0,6-8,Girls,False
+Mansa,2006,13815.0,6-8,Girls,True
+Sangrur,2006,37099.0,6-8,Girls,False
+Barnala,2006,,6-8,Girls,True
+Patiala,2006,32081.0,6-8,Girls,False
+Fatehgarh Sahib,2006,11913.0,6-8,Girls,True
+Malerkotla,2006,,6-8,Girls,True
+Gurdaspur,2005,41749.0,6-8,Girls,False
+Pathankot,2005,,6-8,Girls,True
+Amritsar,2005,54890.0,6-8,Girls,False
+Tarn Taran,2005,,6-8,Girls,True
+Kapurthala,2005,17503.0,6-8,Girls,False
+Jalandhar,2005,49580.0,6-8,Girls,False
+SBS Nagar,2005,15384.0,6-8,Girls,True
+Hoshiarpur,2005,39527.0,6-8,Girls,False
+Rupnagar,2005,24080.0,6-8,Girls,False
+SAS Nagar,2005,,6-8,Girls,True
+Ludhiana,2005,48368.0,6-8,Girls,False
+Ferozepur,2005,30480.0,6-8,Girls,False
+Fazilka,2005,,6-8,Girls,True
+Faridkot,2005,12182.0,6-8,Girls,False
+Sri Muktsar Sahib,2005,13538.0,6-8,Girls,True
+Moga,2005,20835.0,6-8,Girls,True
+Bathinda,2005,25397.0,6-8,Girls,False
+Mansa,2005,13744.0,6-8,Girls,True
+Sangrur,2005,37064.0,6-8,Girls,False
+Barnala,2005,,6-8,Girls,True
+Patiala,2005,36395.0,6-8,Girls,False
+Fatehgarh Sahib,2005,11899.0,6-8,Girls,True
+Malerkotla,2005,,6-8,Girls,True
+Gurdaspur,2004,42082.0,6-8,Girls,False
+Pathankot,2004,,6-8,Girls,True
+Amritsar,2004,62980.0,6-8,Girls,False
+Tarn Taran,2004,,6-8,Girls,True
+Kapurthala,2004,15197.0,6-8,Girls,False
+Jalandhar,2004,48761.0,6-8,Girls,False
+SBS Nagar,2004,14046.0,6-8,Girls,True
+Hoshiarpur,2004,41254.0,6-8,Girls,False
+Rupnagar,2004,23913.0,6-8,Girls,False
+SAS Nagar,2004,,6-8,Girls,True
+Ludhiana,2004,50586.0,6-8,Girls,False
+Ferozepur,2004,29214.0,6-8,Girls,False
+Fazilka,2004,,6-8,Girls,True
+Faridkot,2004,11763.0,6-8,Girls,False
+Sri Muktsar Sahib,2004,12230.0,6-8,Girls,True
+Moga,2004,19809.0,6-8,Girls,True
+Bathinda,2004,24346.0,6-8,Girls,False
+Mansa,2004,11472.0,6-8,Girls,True
+Sangrur,2004,33374.0,6-8,Girls,False
+Barnala,2004,,6-8,Girls,True
+Patiala,2004,34196.0,6-8,Girls,False
+Fatehgarh Sahib,2004,11379.0,6-8,Girls,True
+Malerkotla,2004,,6-8,Girls,True
+Gurdaspur,2003,44226.0,6-8,Girls,False
+Pathankot,2003,,6-8,Girls,True
+Amritsar,2003,62335.0,6-8,Girls,False
+Tarn Taran,2003,,6-8,Girls,True
+Kapurthala,2003,15518.0,6-8,Girls,False
+Jalandhar,2003,47401.0,6-8,Girls,False
+SBS Nagar,2003,14125.0,6-8,Girls,True
+Hoshiarpur,2003,41255.0,6-8,Girls,False
+Rupnagar,2003,23926.0,6-8,Girls,False
+SAS Nagar,2003,,6-8,Girls,True
+Ludhiana,2003,48902.0,6-8,Girls,False
+Ferozepur,2003,29072.0,6-8,Girls,False
+Fazilka,2003,,6-8,Girls,True
+Faridkot,2003,12231.0,6-8,Girls,False
+Sri Muktsar Sahib,2003,13709.0,6-8,Girls,True
+Moga,2003,19178.0,6-8,Girls,True
+Bathinda,2003,24869.0,6-8,Girls,False
+Mansa,2003,11800.0,6-8,Girls,True
+Sangrur,2003,32400.0,6-8,Girls,False
+Barnala,2003,,6-8,Girls,True
+Patiala,2003,33414.0,6-8,Girls,False
+Fatehgarh Sahib,2003,12840.0,6-8,Girls,True
+Malerkotla,2003,,6-8,Girls,True
+Gurdaspur,2002,45036.0,6-8,Girls,False
+Pathankot,2002,,6-8,Girls,True
+Amritsar,2002,52908.0,6-8,Girls,False
+Tarn Taran,2002,,6-8,Girls,True
+Kapurthala,2002,15364.0,6-8,Girls,False
+Jalandhar,2002,46277.0,6-8,Girls,False
+SBS Nagar,2002,14526.0,6-8,Girls,True
+Hoshiarpur,2002,37416.0,6-8,Girls,False
+Rupnagar,2002,23578.0,6-8,Girls,False
+SAS Nagar,2002,,6-8,Girls,True
+Ludhiana,2002,51160.0,6-8,Girls,False
+Ferozepur,2002,29659.0,6-8,Girls,False
+Fazilka,2002,,6-8,Girls,True
+Faridkot,2002,11864.0,6-8,Girls,False
+Sri Muktsar Sahib,2002,13046.0,6-8,Girls,True
+Moga,2002,19640.0,6-8,Girls,True
+Bathinda,2002,24015.0,6-8,Girls,False
+Mansa,2002,11942.0,6-8,Girls,True
+Sangrur,2002,35579.0,6-8,Girls,False
+Barnala,2002,,6-8,Girls,True
+Patiala,2002,33473.0,6-8,Girls,False
+Fatehgarh Sahib,2002,11707.0,6-8,Girls,True
+Malerkotla,2002,,6-8,Girls,True
+Gurdaspur,2001,43619.0,6-8,Girls,False
+Pathankot,2001,,6-8,Girls,True
+Amritsar,2001,40553.0,6-8,Girls,False
+Tarn Taran,2001,,6-8,Girls,True
+Kapurthala,2001,15308.0,6-8,Girls,False
+Jalandhar,2001,46026.0,6-8,Girls,False
+SBS Nagar,2001,14088.0,6-8,Girls,True
+Hoshiarpur,2001,40337.0,6-8,Girls,False
+Rupnagar,2001,23092.0,6-8,Girls,False
+SAS Nagar,2001,,6-8,Girls,True
+Ludhiana,2001,50971.0,6-8,Girls,False
+Ferozepur,2001,28147.0,6-8,Girls,False
+Fazilka,2001,,6-8,Girls,True
+Faridkot,2001,11065.0,6-8,Girls,False
+Sri Muktsar Sahib,2001,11939.0,6-8,Girls,True
+Moga,2001,19794.0,6-8,Girls,True
+Bathinda,2001,24705.0,6-8,Girls,False
+Mansa,2001,11496.0,6-8,Girls,True
+Sangrur,2001,38723.0,6-8,Girls,False
+Barnala,2001,,6-8,Girls,True
+Patiala,2001,33388.0,6-8,Girls,False
+Fatehgarh Sahib,2001,12306.0,6-8,Girls,True
+Malerkotla,2001,,6-8,Girls,True
+Gurdaspur,2000,44981.0,6-8,Girls,False
+Pathankot,2000,,6-8,Girls,True
+Amritsar,2000,45779.0,6-8,Girls,False
+Tarn Taran,2000,,6-8,Girls,True
+Kapurthala,2000,15497.0,6-8,Girls,False
+Jalandhar,2000,46289.0,6-8,Girls,False
+SBS Nagar,2000,14373.0,6-8,Girls,True
+Hoshiarpur,2000,40337.0,6-8,Girls,False
+Rupnagar,2000,22863.0,6-8,Girls,False
+SAS Nagar,2000,,6-8,Girls,True
+Ludhiana,2000,52690.0,6-8,Girls,False
+Ferozepur,2000,27449.0,6-8,Girls,False
+Fazilka,2000,,6-8,Girls,True
+Faridkot,2000,11121.0,6-8,Girls,False
+Sri Muktsar Sahib,2000,11007.0,6-8,Girls,True
+Moga,2000,18746.0,6-8,Girls,True
+Bathinda,2000,22880.0,6-8,Girls,False
+Mansa,2000,11426.0,6-8,Girls,True
+Sangrur,2000,36673.0,6-8,Girls,False
+Barnala,2000,,6-8,Girls,True
+Patiala,2000,34789.0,6-8,Girls,False
+Fatehgarh Sahib,2000,11795.0,6-8,Girls,True
+Malerkotla,2000,,6-8,Girls,True
+Gurdaspur,1999,44622.0,6-8,Girls,False
+Pathankot,1999,,6-8,Girls,True
+Amritsar,1999,47831.0,6-8,Girls,False
+Tarn Taran,1999,,6-8,Girls,True
+Kapurthala,1999,14976.0,6-8,Girls,False
+Jalandhar,1999,44583.0,6-8,Girls,False
+SBS Nagar,1999,14112.0,6-8,Girls,True
+Hoshiarpur,1999,37459.0,6-8,Girls,False
+Rupnagar,1999,23694.0,6-8,Girls,False
+SAS Nagar,1999,,6-8,Girls,True
+Ludhiana,1999,52061.0,6-8,Girls,False
+Ferozepur,1999,30815.0,6-8,Girls,False
+Fazilka,1999,,6-8,Girls,True
+Faridkot,1999,11229.0,6-8,Girls,False
+Sri Muktsar Sahib,1999,12649.0,6-8,Girls,True
+Moga,1999,15828.0,6-8,Girls,True
+Bathinda,1999,22795.0,6-8,Girls,False
+Mansa,1999,11588.0,6-8,Girls,True
+Sangrur,1999,36807.0,6-8,Girls,False
+Barnala,1999,,6-8,Girls,True
+Patiala,1999,35693.0,6-8,Girls,False
+Fatehgarh Sahib,1999,11688.0,6-8,Girls,True
+Malerkotla,1999,,6-8,Girls,True
+Gurdaspur,1998,45548.0,6-8,Girls,False
+Pathankot,1998,,6-8,Girls,True
+Amritsar,1998,55297.0,6-8,Girls,False
+Tarn Taran,1998,,6-8,Girls,True
+Kapurthala,1998,14636.0,6-8,Girls,False
+Jalandhar,1998,45532.0,6-8,Girls,False
+SBS Nagar,1998,14858.0,6-8,Girls,True
+Hoshiarpur,1998,36591.0,6-8,Girls,False
+Rupnagar,1998,24934.0,6-8,Girls,False
+SAS Nagar,1998,,6-8,Girls,True
+Ludhiana,1998,52092.0,6-8,Girls,False
+Ferozepur,1998,29393.0,6-8,Girls,False
+Fazilka,1998,,6-8,Girls,True
+Faridkot,1998,10881.0,6-8,Girls,False
+Sri Muktsar Sahib,1998,11794.0,6-8,Girls,True
+Moga,1998,15455.0,6-8,Girls,True
+Bathinda,1998,21077.0,6-8,Girls,False
+Mansa,1998,10820.0,6-8,Girls,True
+Sangrur,1998,35052.0,6-8,Girls,False
+Barnala,1998,,6-8,Girls,True
+Patiala,1998,34490.0,6-8,Girls,False
+Fatehgarh Sahib,1998,11634.0,6-8,Girls,True
+Malerkotla,1998,,6-8,Girls,True
+Gurdaspur,1997,42832.0,6-8,Girls,False
+Pathankot,1997,,6-8,Girls,True
+Amritsar,1997,54643.0,6-8,Girls,False
+Tarn Taran,1997,,6-8,Girls,True
+Kapurthala,1997,14607.0,6-8,Girls,False
+Jalandhar,1997,43727.0,6-8,Girls,False
+SBS Nagar,1997,12064.0,6-8,Girls,True
+Hoshiarpur,1997,36386.0,6-8,Girls,False
+Rupnagar,1997,22711.0,6-8,Girls,False
+SAS Nagar,1997,,6-8,Girls,True
+Ludhiana,1997,49250.0,6-8,Girls,False
+Ferozepur,1997,28681.0,6-8,Girls,False
+Fazilka,1997,,6-8,Girls,True
+Faridkot,1997,10255.0,6-8,Girls,False
+Sri Muktsar Sahib,1997,11506.0,6-8,Girls,True
+Moga,1997,15946.0,6-8,Girls,True
+Bathinda,1997,21846.0,6-8,Girls,False
+Mansa,1997,9540.0,6-8,Girls,True
+Sangrur,1997,34200.0,6-8,Girls,False
+Barnala,1997,,6-8,Girls,True
+Patiala,1997,33799.0,6-8,Girls,False
+Fatehgarh Sahib,1997,11996.0,6-8,Girls,True
+Malerkotla,1997,,6-8,Girls,True
+Gurdaspur,1996,41203.0,6-8,Girls,False
+Pathankot,1996,,6-8,Girls,True
+Amritsar,1996,53966.0,6-8,Girls,False
+Tarn Taran,1996,,6-8,Girls,True
+Kapurthala,1996,14044.0,6-8,Girls,False
+Jalandhar,1996,43239.0,6-8,Girls,False
+SBS Nagar,1996,12802.0,6-8,Girls,True
+Hoshiarpur,1996,35748.0,6-8,Girls,False
+Rupnagar,1996,21527.0,6-8,Girls,False
+SAS Nagar,1996,,6-8,Girls,True
+Ludhiana,1996,48103.0,6-8,Girls,False
+Ferozepur,1996,26980.0,6-8,Girls,False
+Fazilka,1996,,6-8,Girls,True
+Faridkot,1996,9650.0,6-8,Girls,False
+Sri Muktsar Sahib,1996,11731.0,6-8,Girls,True
+Moga,1996,14854.0,6-8,Girls,True
+Bathinda,1996,20148.0,6-8,Girls,False
+Mansa,1996,8722.0,6-8,Girls,True
+Sangrur,1996,33118.0,6-8,Girls,False
+Barnala,1996,,6-8,Girls,True
+Patiala,1996,32359.0,6-8,Girls,False
+Fatehgarh Sahib,1996,10458.0,6-8,Girls,True
+Malerkotla,1996,,6-8,Girls,True
+Gurdaspur,1995,39853.0,6-8,Girls,False
+Pathankot,1995,,6-8,Girls,True
+Amritsar,1995,52355.0,6-8,Girls,False
+Tarn Taran,1995,,6-8,Girls,True
+Kapurthala,1995,13165.0,6-8,Girls,False
+Jalandhar,1995,45818.0,6-8,Girls,False
+SBS Nagar,1995,,6-8,Girls,True
+Hoshiarpur,1995,38500.0,6-8,Girls,False
+Rupnagar,1995,21247.0,6-8,Girls,False
+SAS Nagar,1995,,6-8,Girls,True
+Ludhiana,1995,47742.0,6-8,Girls,False
+Ferozepur,1995,26485.0,6-8,Girls,False
+Fazilka,1995,,6-8,Girls,True
+Faridkot,1995,34447.0,6-8,Girls,False
+Sri Muktsar Sahib,1995,,6-8,Girls,True
+Moga,1995,,6-8,Girls,True
+Bathinda,1995,19703.0,6-8,Girls,False
+Mansa,1995,8159.0,6-8,Girls,True
+Sangrur,1995,31980.0,6-8,Girls,False
+Barnala,1995,,6-8,Girls,True
+Patiala,1995,30977.0,6-8,Girls,False
+Fatehgarh Sahib,1995,11282.0,6-8,Girls,True
+Malerkotla,1995,,6-8,Girls,True
+Gurdaspur,1994,39022.0,6-8,Girls,False
+Pathankot,1994,,6-8,Girls,True
+Amritsar,1994,48686.0,6-8,Girls,False
+Tarn Taran,1994,,6-8,Girls,True
+Kapurthala,1994,13037.0,6-8,Girls,False
+Jalandhar,1994,51329.0,6-8,Girls,False
+SBS Nagar,1994,,6-8,Girls,True
+Hoshiarpur,1994,36937.0,6-8,Girls,False
+Rupnagar,1994,20302.0,6-8,Girls,False
+SAS Nagar,1994,,6-8,Girls,True
+Ludhiana,1994,47044.0,6-8,Girls,False
+Ferozepur,1994,24710.0,6-8,Girls,False
+Fazilka,1994,,6-8,Girls,True
+Faridkot,1994,31758.0,6-8,Girls,False
+Sri Muktsar Sahib,1994,,6-8,Girls,True
+Moga,1994,,6-8,Girls,True
+Bathinda,1994,18347.0,6-8,Girls,False
+Mansa,1994,7676.0,6-8,Girls,True
+Sangrur,1994,31311.0,6-8,Girls,False
+Barnala,1994,,6-8,Girls,True
+Patiala,1994,30223.0,6-8,Girls,False
+Fatehgarh Sahib,1994,11428.0,6-8,Girls,True
+Malerkotla,1994,,6-8,Girls,True
+Gurdaspur,1993,38499.0,6-8,Girls,False
+Pathankot,1993,,6-8,Girls,True
+Amritsar,1993,47449.0,6-8,Girls,False
+Tarn Taran,1993,,6-8,Girls,True
+Kapurthala,1993,12894.0,6-8,Girls,False
+Jalandhar,1993,50635.0,6-8,Girls,False
+SBS Nagar,1993,,6-8,Girls,True
+Hoshiarpur,1993,37270.0,6-8,Girls,False
+Rupnagar,1993,19030.0,6-8,Girls,False
+SAS Nagar,1993,,6-8,Girls,True
+Ludhiana,1993,45559.0,6-8,Girls,False
+Ferozepur,1993,23517.0,6-8,Girls,False
+Fazilka,1993,,6-8,Girls,True
+Faridkot,1993,32199.0,6-8,Girls,False
+Sri Muktsar Sahib,1993,,6-8,Girls,True
+Moga,1993,,6-8,Girls,True
+Bathinda,1993,17476.0,6-8,Girls,False
+Mansa,1993,7103.0,6-8,Girls,True
+Sangrur,1993,29960.0,6-8,Girls,False
+Barnala,1993,,6-8,Girls,True
+Patiala,1993,29183.0,6-8,Girls,False
+Fatehgarh Sahib,1993,10541.0,6-8,Girls,True
+Malerkotla,1993,,6-8,Girls,True
+Gurdaspur,1992,38511.0,6-8,Girls,False
+Pathankot,1992,,6-8,Girls,True
+Amritsar,1992,46291.0,6-8,Girls,False
+Tarn Taran,1992,,6-8,Girls,True
+Kapurthala,1992,12510.0,6-8,Girls,False
+Jalandhar,1992,49752.0,6-8,Girls,False
+SBS Nagar,1992,,6-8,Girls,True
+Hoshiarpur,1992,36466.0,6-8,Girls,False
+Rupnagar,1992,19033.0,6-8,Girls,False
+SAS Nagar,1992,,6-8,Girls,True
+Ludhiana,1992,43254.0,6-8,Girls,False
+Ferozepur,1992,26156.0,6-8,Girls,False
+Fazilka,1992,,6-8,Girls,True
+Faridkot,1992,29961.0,6-8,Girls,False
+Sri Muktsar Sahib,1992,,6-8,Girls,True
+Moga,1992,,6-8,Girls,True
+Bathinda,1992,16206.0,6-8,Girls,False
+Mansa,1992,6793.0,6-8,Girls,True
+Sangrur,1992,27389.0,6-8,Girls,False
+Barnala,1992,,6-8,Girls,True
+Patiala,1992,27207.0,6-8,Girls,False
+Fatehgarh Sahib,1992,9922.0,6-8,Girls,True
+Malerkotla,1992,,6-8,Girls,True
+Gurdaspur,1991,39450.0,6-8,Girls,False
+Pathankot,1991,,6-8,Girls,True
+Amritsar,1991,45572.0,6-8,Girls,False
+Tarn Taran,1991,,6-8,Girls,True
+Kapurthala,1991,14165.0,6-8,Girls,False
+Jalandhar,1991,69793.0,6-8,Girls,False
+SBS Nagar,1991,,6-8,Girls,True
+Hoshiarpur,1991,35793.0,6-8,Girls,False
+Rupnagar,1991,19056.0,6-8,Girls,False
+SAS Nagar,1991,,6-8,Girls,True
+Ludhiana,1991,46458.0,6-8,Girls,False
+Ferozepur,1991,24623.0,6-8,Girls,False
+Fazilka,1991,,6-8,Girls,True
+Faridkot,1991,31038.0,6-8,Girls,False
+Sri Muktsar Sahib,1991,,6-8,Girls,True
+Moga,1991,,6-8,Girls,True
+Bathinda,1991,22754.0,6-8,Girls,False
+Mansa,1991,,6-8,Girls,True
+Sangrur,1991,30095.0,6-8,Girls,False
+Barnala,1991,,6-8,Girls,True
+Patiala,1991,37035.0,6-8,Girls,False
+Fatehgarh Sahib,1991,,6-8,Girls,True
+Malerkotla,1991,,6-8,Girls,True
+Gurdaspur,1990,40077.0,6-8,Girls,False
+Pathankot,1990,,6-8,Girls,True
+Amritsar,1990,41499.0,6-8,Girls,False
+Tarn Taran,1990,,6-8,Girls,True
+Kapurthala,1990,13385.0,6-8,Girls,False
+Jalandhar,1990,69327.0,6-8,Girls,False
+SBS Nagar,1990,,6-8,Girls,True
+Hoshiarpur,1990,36070.0,6-8,Girls,False
+Rupnagar,1990,19082.0,6-8,Girls,False
+SAS Nagar,1990,,6-8,Girls,True
+Ludhiana,1990,45480.0,6-8,Girls,False
+Ferozepur,1990,19609.0,6-8,Girls,False
+Fazilka,1990,,6-8,Girls,True
+Faridkot,1990,25630.0,6-8,Girls,False
+Sri Muktsar Sahib,1990,,6-8,Girls,True
+Moga,1990,,6-8,Girls,True
+Bathinda,1990,22621.0,6-8,Girls,False
+Mansa,1990,,6-8,Girls,True
+Sangrur,1990,27834.0,6-8,Girls,False
+Barnala,1990,,6-8,Girls,True
+Patiala,1990,34860.0,6-8,Girls,False
+Fatehgarh Sahib,1990,,6-8,Girls,True
+Malerkotla,1990,,6-8,Girls,True
+Gurdaspur,1989,40671.0,6-8,Girls,False
+Pathankot,1989,,6-8,Girls,True
+Amritsar,1989,38112.0,6-8,Girls,False
+Tarn Taran,1989,,6-8,Girls,True
+Kapurthala,1989,12695.0,6-8,Girls,False
+Jalandhar,1989,52603.0,6-8,Girls,False
+SBS Nagar,1989,,6-8,Girls,True
+Hoshiarpur,1989,34965.0,6-8,Girls,False
+Rupnagar,1989,18482.0,6-8,Girls,False
+SAS Nagar,1989,,6-8,Girls,True
+Ludhiana,1989,45277.0,6-8,Girls,False
+Ferozepur,1989,20203.0,6-8,Girls,False
+Fazilka,1989,,6-8,Girls,True
+Faridkot,1989,25835.0,6-8,Girls,False
+Sri Muktsar Sahib,1989,,6-8,Girls,True
+Moga,1989,,6-8,Girls,True
+Bathinda,1989,20573.0,6-8,Girls,False
+Mansa,1989,,6-8,Girls,True
+Sangrur,1989,23309.0,6-8,Girls,False
+Barnala,1989,,6-8,Girls,True
+Patiala,1989,31745.0,6-8,Girls,False
+Fatehgarh Sahib,1989,,6-8,Girls,True
+Malerkotla,1989,,6-8,Girls,True
